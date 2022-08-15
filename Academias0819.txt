@@ -1,0 +1,1099 @@
+Ramal;Arrecadado;Grupo;Endereço;Numero
+6181;208,22;1;R.. Marinheiros, 62, Arquipelago, 90090-110;62
+23922;89,14;1;R.. Arno Kappel, 169, Farrapos, 90245-100;169
+38440;3.248,97;1;Trav.. Venezuela, 40, Navegantes, 90240-220;40
+45365;113,40;1;R.. Padre Diogo Feijo, 352, Navegantes, 90240-420;352
+45543;785,47;1;R.. Padre Diogo Feijo, 339, Navegantes, 90240-420;339
+47708;78,16;1;Av.. Farrapos, 3781, Navegantes, 90220-007;3781
+53260;122,27;1;Av.. Presidente Franklin Roosevelt, 324, Navegantes, 90230-000;324
+55409;36,07;1;R.. Dr Joao Inacio, 1310, Navegantes, 90230-181;1310
+59986;33,94;1;Av.. Ceara, 1016, Sao Joao, 90240-511;1016
+64165;1.126,25;1;Av.. Brasil, 399, Sao Geraldo, 90230-061;399
+66117;237,18;1;Av.. Sao Paulo, 593, Sao Geraldo, 90230-161;593
+70718;608,89;1;R.. do Parque, 375, Floresta, 90230-200;375
+75388;965,45;1;Av.. Presidente Franklin Roosevelt, 969, Sao Geraldo, 90230-002;969
+76040;781,55;1;Av.. Guido Mondin, 180, Sao Geraldo, 90230-260;180
+77828;1.077,04;1;Av.. Sao Pedro, 613, Sao Geraldo, 90230-120;613
+77968;581,08;1;Av.. Farrapos, 2470, Sao Geraldo, 90220-002;2470
+80810;2.478,88;1;Av.. Brasil, 1206, Navegantes, 90230-060;1206
+81000;825,28;1;Av.. Ceara, 1311, Navegantes, 90240-511;1311
+81299;6.826,63;1;Av.. Brasil, 1454, Sao Joao, 90230-060;1454
+85359;4.783,97;1;Av.. Amazonas, 639, Sao Geraldo, 90240-541;639
+86614;2.126,27;1;Av.. Para, 820, Sao Geraldo, 90240-591;820
+88030;2.182,11;1;Av.. Guido Mondin, 750, Sao Geraldo, 90230-260;750
+89117;291,73;1;Av.. Sao Pedro, 778, Sao Geraldo, 90230-123;778
+92380;3.630,24;1;Av.. Sao Pedro, 1201, Sao Geraldo, 90230-122;1201
+103640;20.360,27;1;R.. Voluntarios da Patria, 1889, Floresta, 90230-011;1889
+104965;444,89;1;R.. Gaspar Martins, 268, Floresta, 90220-160;268
+115070;11.278,76;1;Av.. Cristovao Colombo, 870, Floresta, 90560-001;870
+115452;166,94;1;Av.. Farrapos, 122, Floresta, 90220-000;122
+115460;300,33;1;Av.. Farrapos, 122, Floresta, 90220-000;122
+115843;448,68;1;Av.. Farrapos, 336, Floresta, 90220-000;336
+116432;236,42;1;R.. Garibaldi, 518, Floresta, 90035-050;518
+116530;1.988,77;1;R.. Garibaldi, 472, Floresta, 90035-050;472
+117072;970,72;1;R.. Ernesto Alves, 94, Floresta, 90220-190;94
+117129;288,69;1;R.. Ernesto Alves, 62, Floresta, 90220-190;62
+119270;471,98;1;R.. Garibaldi, 628, Floresta, 90035-050;628
+119342;30,02;1;R.. Santo Antonio, 87, Floresta, 90220-011;87
+121754;111,22;1;R.. Pelotas, 379, Floresta, 90220-110;379
+121789;30,02;1;R.. Pelotas, 411, Floresta, 90220-110;411
+122599;1.031,65;1;R.. Ramiro Barcelos, 471, Floresta, 90035-004;471
+123749;1.130,72;1;R.. Marques de Alegrete, 191, Sao Joao, 91020-030;191
+124079;1.199,22;1;Av.. Benjamin Constant, 333, Sao Joao, 90550-003;333
+125911;30,02;1;Av.. Benjamin Constant, 413, Sao Joao, 90550-003;413
+132551;475,85;1;Av.. Sertorio, 3143, Santa m Goretti, 91030-541;3143
+132829;1.042,21;1;R.. Piraju, 10, Santa m Goretti, 91030-190;10
+134295;42,77;1;R.. Sao Nicolau, 1282, Santa m Goretti, 91030-230;1282
+140260;730,24;2;R.. Angelo Dourado, 10, Anchieta, 90200-060;10
+141232;2.263,77;2;Av.. das Industrias, 80, Anchieta, 90200-290;80
+182079;214,78;2;Av.. Bernardino Silveira de Amorim, 658, 91140-410;658
+182311;629,72;2;Av.. Bernardino Silveira de Amorim, 124, Sarandi, 91140-410;124
+192910;415,30;2;Av.. Alcides Maia, 420, Sarandi, 91120-440;420
+196983;136,88;2;R.. Jose Huberto Bronca, 114, Sarandi, 91120-010;114
+199303;60,10;2;R.. Vieira da Silva, 106, Sarandi, 91120-210;106
+206830;257,19;2;R.. Oliveira Lopes, 26, Sarandi, 91120-430;26
+214329;289,98;2;R.. Senhor do bom fim, 1023, Sarandi, 91140-380;1023
+219487;151,39;2;R.. Senhor do bom fim, 1103, Sarandi, 91140-380;1103
+227145;1.125,77;2;Av.. Bernardino Silveira Pastoriza, 8, Sta Rosa Lima, 91160-310;8
+239283;30,08;2;R.. Bento Rosa, 182, Sarandi, 91110-260;182
+242063;4.414,95;2;Av.. Alcides s Severiano, 99, Sarandi, 91130-500;99
+242462;39,62;2;Av.. Assis Brasil, 6395, Sarandi, 91140-001;6395
+244040;2.332,02;2;Av.. Salvador Leao, 391, Sarandi, 91130-700;391
+244147;199,59;2;Al.. Tres de Outubro, 360, Sarandi, 91130-470;360
+257168;148,48;2;R.. Zeferino Dias, 58, Sarandi, 91130-480;58
+262552;748,63;2;R.. Dona Alzira, 314, Sarandi, 91110-010;314
+272710;336,88;3;R.. Carlos von Koseritz, 354, Sao Joao, 90540-030;354
+277088;895,43;3;R.. Marcelo Gama, 424, Higienopolis, 90540-040;424
+281727;754,25;3;Av.. Cristovao Colombo, 2614, Sao Joao, 90560-002;2614
+291234;1.205,27;3;R.. Pedro Lessa, 280, Jardim Floresta, 91040-540;280
+308382;1.663,41;3;R.. Ricalde Marques, 114, Jar sao Pedro, 91040-280;114
+333069;30,02;3;Av.. Assis Brasil, 795, Passo da Areia, 91010-004;795
+343021;147,96;3;Av.. Assis Brasil, 117, Sao Joao, 91010-004;117
+348570;983,57;3;R.. Dom Pedro ii, 998, Higienopolis, 90550-141;998
+354821;2.147,46;3;R.. Marechal Jose Inacio da Silva, 404, Passo da Areia, 90520-280;404
+363278;5,73;3;Av.. dos Industriarios, 619, Passo da Areia, 90520-400;619
+372749;461,78;3;R.. Jary, 110, Passo da Areia, 91350-170;110
+382574;222,18;3;R.. Andarai, 896, Passo da Areia, 91350-110;896
+383988;210,63;3;R.. Jary, 680, Passo da Areia, 91350-170;680
+395056;2.356,27;3;R.. Senador Annibal di Primio Beck, 390, Boa Vista, 90480-180;390
+401390;3.829,35;4;R.. Dom Diogo de Souza, 100, Cristo Redentor, 91350-000;100
+401404;7.294,11;4;R.. Dom Diogo de Souza, 100, Cristo Redentor, 91350-000;100
+401412;58.450,81;4;R.. Dom Diogo de Souza, 100, Cristo Redentor, 91350-000;100
+402044;206,87;4;R.. Alberto Silva, 63, Cristo Redentor, 91370-000;63
+404780;1.041,21;4;R.. Adao Baino, 542, Cristo Redentor, 91350-240;542
+406970;1.763,02;4;Av.. Dr Joao Simplicio a de Carvalho, 874, Passo da Areia, 91360-;874
+407640;1.548,57;4;R.. Sape, 621, Vila Ipiranga, 91350-050;621
+410560;2.603,84;4;R.. Eng Walter Boehl, 80, Vila Ipiranga, 91360-090;80
+417130;4.668,88;4;Av.. Assis Brasil, 4033, Vila Ipiranga, 91110-001;4033
+417785;5.128,68;4;Av.. Mathilde Trein Renner, 201, Vila Ipiranga, 91370-050;201
+438910;1.003,08;4;R.. Vitorio Francisco Giordani, 220, Jardim itu, 91220-490;220
+442356;3.865,14;4;R.. Ten ary Tarrago, 3305, Passo das Pedra, 91225-002;3305
+456756;137,73;4;Av.. Saturnino de Brito, 1102, Vila Jardim, 91320-000;1102
+456764;184,36;4;Av.. Saturnino de Brito, 1090, Vila Jardim, 91320-000;1090
+463140;1.451,09;4;Av.. Saturnino de Brito, 1621, Vila Jardim, 91320-001;1621
+468045;285,10;4;Av.. Saturnino de Brito, 1209, Vila Jardim, 91320-000;1209
+477850;643,93;4;Av.. Alberto Pasqualini, 644, Jardim Sabara, 91215-000;644
+483796;203,73;4;R.. Eduardo Antonio dos Santos, 1170, Costa e Silva, 91150-100;1170
+488593;2.852,78;4;Av.. Baltazar de Oliveira Garcia, 1928, Costa e Silva, 91150-000;1928
+502553;60,06;4;R.. Manoel Ferrador, 618, Passo das Pedra, 91230-370;618
+511471;48.296,40;4;Av.. Martim Felix Berta, 475, Jar Leopoldina, 91250-235;475
+511609;205,53;4;Av.. Juscelino Kubitschek de Oliveira, 1156, Jar Leopoldina, 91240-;1156
+514438;477,51;4;R.. Luiz Caetano Antinolfi, 222, Passo das Pedra, 91230-480;222
+514845;940,12;4;Av.. Manoel Elias, 574, Jar Leopoldina, 91240-260;574
+527092;281,19;5;Av.. Bernardino Silveira Pastoriza, 631, Sta Rosa Lima, 91160-310;631
+538922;1.945,60;5;R.. Didia Jardim Pinto, 21, Sta Rosa Lima, 91160-330;21
+539392;8.585,06;5;R.. Didia Jardim Pinto, 31, Sta Rosa Lima, 91160-330;31
+568430;423,40;5;R.. Carmelita Grippi, 260, Rubem Berta, 91170-070;260
+568805;729,73;5;Av.. Major Manoel Jose Monteiro, 345, Rubem Berta, 91170-570;345
+570915;411,82;5;R.. Ivo Nicolau Antinolfi, 149, Rubem Berta, 91170-110;149
+596175;1.044,38;5;Av.. Baltazar de Oliveira Garcia, 4687, Rubem Berta, 91180-001;4687
+609226;30,02;5;Av.. Protasio Alves, 8600, Morro Santana, 91260-000;8600
+615137;282,77;5;R.. Seis de Novembro, 584, Mario Quintana, 91270-320;584
+628891;429,12;5;Av.. Protasio Alves, 7445, Morro Santana, 91310-003;7445
+637009;102,66;5;R.. Espir Rivaldo, 51, Morro Santana, 91450-270;51
+650773;1.332,08;6;R.. Sete de Setembro, 615, Centro Historic, 90010-190;615
+653314;2.097,90;6;Pca.. Quinze de Novembro, 19, Centro Historic, 90020-080;19
+653403;1.061,16;6;Pca.. Quinze de Novembro, 19, Centro Historic, 90020-080;19
+653942;358,02;6;Pca.. Pereira Parobe, 74, Centro Historic, 90030-170;74
+659037;2.588,59;6;R.. Voluntarios da Patria, 513, Centro Historic, 90030-003;513
+659118;41.112,26;6;R.. Cel Vicente, 431, Centro Historic, 90030-041;431
+659142;22.627,52;6;R.. Cel Vicente, 425, Centro Historic, 90030-041;425
+660523;313,81;6;R.. Dr Flores, 227, Centro Historic, 90020-122;227
+663620;452,44;6;R.. Gen Vitorino, 334, Centro Historic, 90020-170;334
+666050;1.971,61;6;R.. dos Andradas, 1085, Centro Historic, 90020-015;1085
+667609;3.620,22;6;R.. Riachuelo, 1263, Centro Historic, 90010-271;1263
+671401;938,61;6;R.. Duque de Caxias, 1540, Centro Historic, 90010-281;1540
+678155;2.152,88;6;R.. Gen Cypriano Ferreira, 443, Centro Historic, 90010-330;443
+681903;350,57;6;R.. Demetrio Ribeiro, 628, Centro Historic, 90010-312;628
+682071;210,72;6;R.. Gen Auto, 220, Centro Historic, 90010-380;220
+686379;753,22;6;R.. Demetrio Ribeiro, 1061, Centro Historic, 90010-311;1061
+687707;246,55;6;R.. Duque de Caxias, 1659, Centro Historic, 90010-283;1659
+689238;217,10;6;R.. Cel Genuino, 203, Centro Historic, 90010-350;203
+690279;726,40;6;R.. Jose do Patrocinio, 51, Centro Historic, 90050-001;51
+693707;250,34;6;Av.. Cristovao Colombo, 213, Independencia, 90560-003;213
+693723;181,23;6;Av.. Cristovao Colombo, 219, Independencia, 90560-003;219
+703613;1.899,98;6;R.. Ramiro Barcelos, 1074, Moinhos Vento, 90035-002;1074
+705160;1.470,53;6;R.. Dinarte Ribeiro, 171, Moinhos Vento, 90570-050;171
+705187;2.344,17;6;R.. Padre Chagas, 342, Moinhos Vento, 90570-080;342
+710792;60,63;8;R.. Cel Bordini, 255, Moinhos Vento, 90440-000;255
+712183;134,48;8;Av.. Cristovao Colombo, 2491, Auxiliadora, 90560-005;2491
+725560;136,64;6;R.. Dona Laura, 45, Rio Branco, 90430-091;45
+729493;312,80;6;R.. Dona Laura, 307, Rio Branco, 90430-091;307
+730416;793,58;6;R.. Cel Bordini, 657, Moinhos Vento, 90440-001;657
+734578;4.816,89;6;Av.. Goethe, 140, Rio Branco, 90430-100;140
+737895;2.512,02;6;R.. Dr Barros Cassal, 734, Bom fim, 90035-030;734
+741043;3.620,17;6;R.. Gen Joao Telles, 508, Bom fim, 90035-120;508
+741736;3.283,21;6;Av.. Osvaldo Aranha, 990, Bom fim, 90035-191;990
+742511;574,01;6;R.. Vasco da Gama, 279, Bom fim, 90420-111;279
+747173;891,62;6;R.. Mariante, 691, Rio Branco, 90430-181;691
+757330;1.880,96;7;R.. Des Espiridiao l Medeiros, 389, Tres Figueiras, 91330-020;389
+763608;50.458,91;7;R.. Carlos Huber, 215, Tres Figueiras, 91330-150;215
+764566;1.112,68;7;R.. Joao Paetzel, 306, Chacara Pedras, 91330-280;306
+782580;372,01;7;Av.. Gen Barreto Viana, 71, Vila Jardim, 91330-630;71
+806463;488,49;7;Av.. Protasio Alves, 7248, Jardim Sabara, 91310-001;7248
+821870;693,59;7;Trav.. Encruzilhada, 91, Bom Jesus, 91420-420;91
+840246;1.326,31;7;R.. Bom Jesus, 622, Bom Jesus, 91420-030;622
+900281;943,95;8;R.. Pedro ivo, 757, Bela Vista, 90450-210;757
+905330;381,31;8;R.. Vicente da Fontoura, 2625, Petropolis, 90460-019;2625
+908517;146,33;8;Av.. Protasio Alves, 493, Santa Cecilia, 90410-000;493
+914266;1.111,46;8;R.. Vicente da Fontoura, 2323, Petropolis, 90630-088;2323
+922641;260,76;8;Av.. Montenegro, 380, Petropolis, 90460-160;380
+923699;714,95;8;Av.. Ijui, 641, Petropolis, 90460-200;641
+928275;737,72;8;R.. Joao Abbott, 12, Petropolis, 90460-150;12
+931195;652,43;8;R.. Amelia Teles, 68, Petropolis, 90460-070;68
+932671;2.634,26;8;Av.. Taquara, 163, Petropolis, 90460-210;163
+935182;438,33;8;Av.. Iguassu, 321, Petropolis, 90470-430;321
+939439;868,50;8;R.. Vitor Hugo, 25, Petropolis, 90630-070;25
+948969;908,55;8;R.. Felizardo, 268, Petropolis, 90690-200;268
+949841;494,94;8;R.. Barao do Amazonas, 827, Jardim Botanico, 90670-004;827
+958069;603,59;8;R.. Sacadura Cabral, 214, Petropolis, 90690-420;214
+969850;3.077,22;8;R.. Isidoro Tressi, 365, Jardim Botanico, 90690-070;365
+972282;1.302,05;9;Av.. Joao Pessoa, 1048, Farroupilha, 90040-000;1048
+972355;1.542,63;9;Av.. Jose Bonifacio, 77, Farroupilha, 90040-130;77
+973920;30,02;9;R.. Santana, 129, Santana, 90040-372;129
+983128;472,48;9;R.. Santana, 778, Santana, 90040-371;778
+989576;641,07;8;R.. Sao Francisco, 36, Santana, 90620-070;36
+990850;146,33;8;R.. Vicente da Fontoura, 1522, Santana, 90640-002;1522
+992763;365,98;8;R.. Livramento, 719, Santana, 90640-130;719
+993700;992,78;8;Av.. Ipiranga, 3373, Partenon, 90610-001;3373
+995843;945,21;8;R.. Sao Francisco, 429, Santana, 90620-070;429
+996025;163,66;8;R.. Vicente da Fontoura, 1332, Santana, 90620-132;1332
+1004026;324,54;9;R.. Domingos Crescencio, 216, Santana, 90650-090;216
+1006487;7.917,70;9;R.. Celeste Gobbato, 218, Praia de Belas, 90110-160;218
+1007270;951,24;9;R.. Gen Lima e Silva, 286, Cidade Baixa, 90050-100;286
+1008226;645,40;9;R.. da Republica, 65, Cidade Baixa, 90050-321;65
+1011855;94,10;9;R.. Jose do Patrocinio, 592, Cidade Baixa, 90050-002;592
+1011863;179,66;9;R.. Jose do Patrocinio, 588, Cidade Baixa, 90050-002;588
+1018264;5.402,54;9;R.. Luiz Afonso, 465, Cidade Baixa, 90050-310;465
+1020439;806,61;9;R.. Jose do Patrocinio, 827, Cidade Baixa, 90050-003;827
+1021362;1.386,77;9;Pca.. Garibaldi, 88, Cidade Baixa, 90050-020;88
+1021770;145,44;9;Av.. Aureliano de Figueiredo Pinto, 872, Cidade Baixa, 90050-190;872
+1023110;375,64;9;R.. Joao Alfredo, 299, Cidade Baixa, 90050-230;299
+1030337;405,96;9;Av.. Aureliano de Figueiredo Pinto, 473, Menino Deus, 90050-191;473
+1030434;842,63;9;R.. Barao do Gravatai, 322, Menino Deus, 90050-330;322
+1033964;856,85;9;R.. Cel Andre Belo, 584, Menino Deus, 90110-020;584
+1036807;1.203,85;9;Av.. Getulio Vargas, 525, Menino Deus, 90150-003;525
+1038036;4.221,16;9;Av.. Getulio Vargas, 627, Menino Deus, 90150-003;627
+1048716;60,06;9;R.. Gen Caldwell, 742, Menino Deus, 90130-050;742
+1056182;586,80;9;R.. Prof Freitas e Castro, 353, Azenha, 90040-400;353
+1057030;411,85;9;R.. Marcilio Dias, 1280, Azenha, 90130-000;1280
+1058517;278,95;9;R.. Marcilio Dias, 1481, Azenha, 90130-001;1481
+1065343;2.233,01;9;Av.. Prof Oscar Pereira, 62, Azenha, 90640-070;62
+1069667;418,50;9;Av.. Bento Goncalves, 597, Santo Antonio, 90650-002;597
+1070797;1.691,04;9;R.. Guilherme Schell, 134, Santo Antonio, 90640-040;134
+1072889;30,02;9;Av.. Bento Goncalves, 1005, Santo Antonio, 90650-002;1005
+1083830;253,90;10;R.. Euclydes da Cunha, 13, Partenon, 90620-220;13
+1085980;837,94;10;R.. Verissimo Rosa, 88, Partenon, 90610-280;88
+1088629;258,47;10;Av.. Bento Goncalves, 1998, Partenon, 90650-000;1998
+1089447;11.230,58;10;Av.. Bento Goncalves, 1329, Santo Antonio, 90650-002;1329
+1090275;1.817,86;10;Av.. Bento Goncalves, 1809, Santo Antonio, 90650-002;1809
+1091611;282,50;10;Av.. Bento Goncalves, 2095, Partenon, 90650-002;2095
+1094637;1.796,79;10;Av.. Bento Goncalves, 2149, Partenon, 90650-002;2149
+1107399;228,37;9;R.. Dona Cecilia, 95, Azenha, 90880-450;95
+1107631;558,91;9;Av.. da Azenha, 1552, Azenha, 90160-007;1552
+1107763;30,08;9;Av.. da Azenha, 1464, Azenha, 90160-007;1464
+1109707;480,35;9;Av.. Porto Alegre, 236, Azenha, 90880-130;236
+1113895;393,66;9;Av.. Dr Carlos Barbosa, 980, Medianeira, 90880-000;980
+1114484;250,82;9;Av.. Porto Alegre, 25, Medianeira, 90880-130;25
+1136445;289,47;10;R.. Licio Cavalheiro, 114, Partenon, 90610-150;114
+1137778;1.234,03;10;Av.. dos Cubanos, 266, Partenon, 91530-040;266
+1138499;562,38;10;R.. Frei Germano, 185, Partenon, 91530-060;185
+1140035;68,44;10;Av.. Bento Goncalves, 5368, Partenon, 91540-000;5368
+1140493;59,88;10;R.. Prof Guerreiro Lima, 73, Partenon, 91530-190;73
+1143905;110,01;10;Av.. Ipiranga, 8447, Partenon, 91530-001;8447
+1144235;2.408,89;10;R.. Capitao Pedro Werlang, 800, Partenon, 91530-110;800
+1152386;1.255,01;11;R.. Angelo Barcelos, 525, Vl Joao Pessoa, 91520-020;525
+1163167;210,86;11;R.. Primeiro de Marco, 458, Vila sao Jose, 91520-620;458
+1176811;304,54;11;R.. Primeiro de Marco, 849, Vila sao Jose, 91520-620;849
+1192604;0,00;11;R.. Ernesto Araujo, 270, Vila sao Jose, 91520-001;270
+1203169;820,73;10;Av.. Bento Goncalves, 6117, Partenon, 91540-000;6117
+1203770;247,29;10;R.. Rafael Clark, 153, Partenon, 91530-620;153
+1208837;690,72;10;R.. Mario Marassa, 60, Partenon, 91530-550;60
+1212796;361,24;10;Estr.. Sao Francisco, 1180, Lomba Pinheiro, 91550-250;1180
+1213326;786,54;10;Estr.. Sao Francisco, 292, Lomba Pinheiro, 91550-250;292
+1213652;408,41;10;Estr.. Sao Francisco, 706, Lomba Pinheiro, 91550-250;706
+1227920;148,40;10;R.. Antonio Jose de Santana, 95, Lomba Pinheiro, 91540-180;95
+1247077;1.181,75;10;Estr.. Joao de Oliveira Remiao, 5211, Lomba Pinheiro, 91560-000;5211
+1251082;250,82;10;Av.. Deputado Adao Pretto, 4868, Lomba Pinheiro, 91570-730;4868
+1290002;307,15;11;R.. Ten Camargo, 120, Cel ap Borges, 91510-400;120
+1291491;234,13;11;R.. Dr Manoel Jose Lopes Fernandes, 118, Vl Joao Pessoa, 91510-;118
+1299581;275,23;11;Av.. Bento Goncalves, 3223, Partenon, 90650-003;3223
+1300628;537,95;11;R.. Ten Alpoim, 149, Partenon, 91510-710;149
+1302213;269,10;11;Av.. Veiga, 371, Cel ap Borges, 91510-120;371
+1318918;3.486,50;12;R.. Sao Miguel, 227, Gloria, 91710-330;227
+1330322;376,84;12;Av.. Prof Oscar Pereira, 3696, Gloria, 91710-000;3696
+1341340;138,56;12;Estr.. dos Barcellos, 377, Cascata, 91712-300;377
+1346520;1.150,27;12;Estr.. dos Barcellos, 648, Cascata, 91712-300;648
+1359096;940,12;12;Av.. Teresopolis, 2645, Teresopolis, 90870-001;2645
+1367811;531,53;12;R.. Anchieta, 449, Gloria, 90870-010;449
+1370499;283,31;12;Av.. Cel Aparicio Borges, 417, Gloria, 90680-570;417
+1377353;368,37;12;Av.. Prof Oscar Pereira, 3771, Gloria, 91710-000;3771
+1387510;873,61;11;R.. Um rua Jorge Luiz m Domingues, 170, Cel ap Borges, 91510-;170
+1390040;30,08;12;R.. Jose de Alencar, 731, Menino Deus, 90880-481;731
+1411373;1.215,73;12;R.. Dona Otilia, 34, Santa Tereza, 90830-580;34
+1433172;426,43;12;Av.. Dr Enio Amoretty Gomes, 73, Santa Tereza, 90840-620;73
+1435221;4,05;13;R.. Orfanotrofio, 336, Nonoai, 90840-440;336
+1441892;206,64;13;Av.. Nonoai, 355, Nonoai, 91720-000;355
+1475908;1.733,54;13;Av.. Nonoai, 1553, Nonoai, 91720-000;1553
+1515470;409,61;13;R.. Dr Barcelos, 2675, Cavalhada, 91910-251;2675
+1573624;843,38;13;Av.. da Cavalhada, 3478, Cavalhada, 91740-000;3478
+1578553;364,41;13;Av.. Vicente Monteggia, 955, Cavalhada, 91740-290;955
+1586858;519,80;13;R.. Dr Armando Barbedo, 986, Tristeza, 91920-520;986
+1591231;30,55;14;Av.. Wenceslau Escobar, 3196, Tristeza, 91920-134;3196
+1601431;30,08;14;R.. Dr Pereira Neto, 1262, Camaqua, 91920-530;1262
+1602624;260,44;14;R.. Prof Joaquim Louzada, 9, Camaqua, 91920-050;9
+1614029;314,54;14;R.. Joaquim de Carvalho, 345, Vila Nova, 91740-840;345
+1615297;137,16;13;R.. Almirante Camara, 372, Tristeza, 91920-450;372
+1637762;275,23;14;Av.. Juca Batista, 21, Ipanema, 91770-001;21
+1640178;30,08;15;R.. Atilio Supertti, 387, Vila Nova, 91750-200;387
+1651528;230,54;15;Av.. Sao Jose do Norte, 20, Belem Velho, 91712-052;20
+1667572;100,01;15;R.. Andre Correa Dutra, 100, Vila Nova, 91750-580;100
+1668099;223,86;15;R.. Aristides Joaquim do Nascimento, 75, Vila Nova, 91750-550;75
+1672010;30,55;15;R.. Atilio Supertti, 501, Vila Nova, 91750-200;501
+1678094;446,58;14;R.. Pedro Rodrigues Bitencourt, 241, Cavalhada, 91750-210;241
+1688421;913,49;15;Bc.. Paladino, 259, Campo Novo, 91750-110;259
+1690248;60,18;15;Estr.. Cristiano Kraemer, 1936, Campo Novo, 91750-060;1936
+1709399;1.818,93;14;Av.. Juca Batista, 1644, Ipanema, 91770-000;1644
+1711504;566,79;15;R.. Andre Primo Biazetto, 144, Campo Novo, 91751-390;144
+1711903;549,14;15;Av.. Juca Batista, 2104, Campo Novo, 91770-000;2104
+1752928;634,82;16;Av.. Celestino Bertolucci, 175, Aberta dos Morr, 91755-020;175
+1756362;329,07;16;Av.. Celestino Bertolucci, 520, Aberta dos Morr, 91755-020;520
+1757709;63,49;16;Av.. Juca Batista, 4165, Aberta dos Morr, 91755-000;4165
+1759531;511,02;16;R.. Dorival Castilho Machado, 1267, Aberta dos Morr, 91755-210;1267
+1762095;133,85;15;Av.. Edgar Pires de Castro, 852, Hipica, 91787-152;852
+1774492;313,06;15;Ac.. L sq Dois Primeira uv vl n Restinga, 145, Restinga, 91792-370;145
+1777998;137,17;15;Av.. Econ Nilo Wulff, 159, Restinga, 91790-000;159
+1782975;304,27;15;Ac.. K sq Tres Segunda uv vl n Restinga, 2103, Restinga, 91792-;2103
+1785290;596,69;15;Ac.. E sq Dois Segunda uv vl n Restinga, 2279, Restinga, 91793-;2279
+1827936;1.239,64;15;Estr.. Barro Vermelho, 215, Restinga, 91790-100;215
+1837770;2.217,11;16;Av.. Juca Batista, 7545, Chapeu do sol, 91781-001;7545
+1859170;1.741,14;16;Av.. Heitor Vieira, 1047, Belem Novo, 91780-000;1047
+1979531;161,16;4;R.. Carlos Salzano Vieira da Cunha, 356, Jardim itu, 91225-085;356
+1985213;1.693,58;15;R.. Tome Antonio de Souza, 219, Campo Novo, 91750-170;219
+2000962;51,32;4;R.. Onze de Junho, 85, Passo das Pedra, 91230-505;85
+2006383;490,92;10;Estr.. Joao de Oliveira Remiao, 6065, Lomba Pinheiro, 91560-000;6065
+2015633;453,70;10;Estr.. Joao de Oliveira Remiao, 6317, Lomba Pinheiro, 91560-000;6317
+2044501;670,66;10;Av.. Deputado Adao Pretto, 90, Lomba Pinheiro, 91570-730;90
+2051427;701,81;16;R.. Dona Malvina Lami, 27, Lami, 91787-490;27
+2080702;170,21;6;Pca.. Quinze de Novembro, 19, Centro Historic, 90020-080;19
+2081830;133,58;9;R.. Padre Antonio Vieira, 370, Santo Antonio, 90640-060;370
+2089815;220,26;1;R.. Ernesto Alves, 60, Floresta, 90220-190;60
+2114771;581,08;5;R.. Etelvina Hipolito da Silveira, 113, Sta Rosa Lima, 91160-624;113
+2129485;111,45;12;R.. Cruzeiro do sul, 1947, Santa Tereza, 90840-000;1947
+2138786;269,34;4;R.. Dr Alberto Barbosa, 293, Vila Jardim, 91320-040;293
+2145510;296,65;5;R.. Deodoro, 698, Mario Quintana, 91260-370;698
+2176696;396,24;12;R.. Caixa Economica, 266, Santa Tereza, 90840-610;266
+2225131;628,97;10;Av.. Deputado Adao Pretto, 786, Lomba Pinheiro, 91570-730;786
+2229609;405,35;2;R.. Senhor do bom fim, 983, Sarandi, 91140-380;983
+2230860;90,65;2;Av.. Assis Brasil, 5737, Sarandi, 91110-001;5737
+2238667;210,02;1;Av.. Amynthas Jacques de Moraes, 247, Humaita, 90245-050;247
+2270854;30,02;5;R.. Petronilla Cogo, 84, Parque sta fe, 91180-750;84
+2292696;30,08;14;Av.. Guaruja, 380, Guaruja, 91770-050;380
+2307669;299,71;10;Estr.. Joao de Oliveira Remiao, 6321, Lomba Pinheiro, 91560-000;6321
+2322293;56,12;16;Av.. Juca Batista, 5785, Hipica, 91755-851;5785
+2322595;1.051,83;2;Av.. Assis Brasil, 4791, Sarandi, 91110-001;4791
+2324172;684,46;6;Av.. Alberto Bins, 404, Centro Historic, 90030-140;404
+2339102;491,00;10;Estr.. Afonso Lourenco Mariante, 4602, Lomba Pinheiro, 91550-;4602
+2347040;1.405,80;3;R.. Pistoia, 32, Passo da Areia, 90520-180;32
+2373700;425,16;3;Av.. Plinio Brasil Milano, 1475, Boa Vista, 90520-002;1475
+2411636;996,26;3;R.. Luzitana, 38, Sao Joao, 90520-080;38
+2418126;135,94;2;Av.. Bernardino Silveira Pastoriza, 1150, Sta Rosa Lima, 91160-310;1150
+2418959;724,81;16;Av.. Heitor Vieira, 438, Belem Novo, 91780-000;438
+2443260;30,55;5;Av.. Adelino Ferreira Jardim, 224, Rubem Berta, 91250-310;224
+2444291;187,60;10;R.. Ana Julia Pereira, 125, Lomba Pinheiro, 91550-395;125
+2444348;127,02;14;R.. Morro Alto, 138, Ipanema, 91751-650;138
+2444844;96,72;1;Av.. Sertorio, 2725, Santa m Goretti, 91030-541;2725
+2449560;1.219,25;13;Av.. Wenceslau Escobar, 912, Tristeza, 91910-712;912
+2480824;30,02;6;Av.. Alberto Bins, 404, Centro Historic, 90030-140;404
+2480832;30,02;6;Av.. Alberto Bins, 404, Centro Historic, 90030-140;404
+2480840;30,02;6;Av.. Alberto Bins, 404, Centro Historic, 90030-140;404
+2482550;136,43;3;R.. Jose Mauricio, 138, Sao Sebastiao, 91060-350;138
+2526778;137,82;15;R.. Raul Silva Gudolle, 290, Hipica, 91787-197;290
+2531666;3.190,11;10;Av.. Bento Goncalves, 7179, Agronomia, 91540-000;7179
+2537109;153,99;6;R.. Chaves Barcelos, 189, Centro Historic, 90030-120;189
+2548100;179,66;5;Av.. Dr Alberto Vianna Rosa, 184, Morro Santana, 91450-210;184
+2555115;1.847,82;6;R.. Chaves Barcelos, 181, Centro Historic, 90030-120;181
+2576520;709,37;9;R.. Vinte de Setembro, 11, Azenha, 90130-090;11
+2581493;248,50;16;Av.. Edgar Pires de Castro, 10548, Sao Caetano, 91784-000;10548
+2581639;216,25;16;Av.. Edgar Pires de Castro, 10428, Lageado, 91798-600;10428
+2584093;375,56;14;R.. Enio Aveline da Rocha, 234, Cavalhada, 91751-310;234
+2597055;130,46;4;Av.. Sertorio, 10174, Costa e Silva, 91130-720;10174
+2599678;134,48;4;Av.. Baltazar de Oliveira Garcia, 2015, Passo das Pedra, 91150-001;2015
+2613212;172,97;6;Av.. Otavio Rocha, 51, Centro Historic, 90020-151;51
+2613387;509,52;7;R.. Dr Otavio Santos, 661, Jardim Sabara, 91210-001;661
+2627710;60,63;1;R.. Augusto Severo, 183, Sao Joao, 90240-480;183
+2632888;133,85;15;Estr.. Cristiano Kraemer, 1440, Campo Novo, 91750-060;1440
+2635356;500,65;16;Av.. Edgar Pires de Castro, 9415, Lageado, 91785-209;9415
+2643596;76,99;8;R.. Regente, 35, Petropolis, 90470-170;35
+2656779;69,78;5;R.. Egidio Piccoli, 223, Mario Quintana, 91263-200;223
+2692090;2.129,81;4;Av.. Baltazar de Oliveira Garcia, 225, Jardim itu, 91130-001;225
+2708213;554,55;13;R.. Cachoeira, 455, Nonoai, 90830-520;455
+2714566;175,05;14;Av.. da Cavalhada, 3805, Cavalhada, 91740-001;3805
+2736144;271,00;15;Estr.. Joao Antonio Silveira, 2987, Restinga, 91791-099;2987
+2738279;357,13;13;R.. Mata Coelho, 137, Nonoai, 90830-060;137
+2748495;494,29;16;Bc.. L av do Lami, 533, Boa Vista do su, 91780-128;533
+2758636;288,70;14;R.. Dr Pereira Neto, 726, Tristeza, 91920-530;726
+2764393;4.138,56;15;Av.. Edgar Pires de Castro, 1286, Hipica, 91788-000;1286
+2767252;7.963,41;14;R.. Enio Aveline da Rocha, 134, Cavalhada, 91751-310;134
+2774259;265,81;13;R.. Cel Massot, 1064, Cristal, 91910-530;1064
+2777827;12.537,20;16;Estr.. do Varejao, 3733, Lami, 91787-170;3733
+2793822;1.320,29;9;R.. Gen Lima e Silva, 275, Cidade Baixa, 90050-101;275
+2794373;980,69;4;R.. Dona Adda Mascarenhas de Moraes, 347, Jardim itu, 91220-;347
+2803062;206,50;4;R.. Dona Adda Mascarenhas de Moraes, 50, Jardim itu, 91220-140;50
+2805480;432,03;3;R.. da Varzea, 207, Jar sao Pedro, 91040-600;207
+2841185;30,08;5;R.. Roberto Brinco, 39, Morro Santana, 91450-410;39
+2856662;795,38;7;Av.. Saturnino de Brito, 284, Vila Jardim, 91320-000;284
+2862514;702,51;1;R.. Simao Kappel, 262, Humaita, 90240-210;262
+2880113;1.372,99;5;Av.. Martim Felix Berta, 2965, Mario Quintana, 91270-650;2965
+2927047;31,74;8;Av.. Ipiranga, 4660, Jardim Botanico, 90610-000;4660
+2943719;3.109,54;1;Av.. Farrapos, 305, Floresta, 90220-004;305
+2957973;5.800,94;1;Av.. Sao Paulo, 670, Sao Geraldo, 90230-160;670
+2980410;13.994,54;6;R.. Jeronimo Coelho, 277, Centro Historic, 90010-241;277
+3012263;76,99;1;Av.. Madrid, 277, Navegantes, 90240-560;277
+3042413;219,52;5;R.. Leopoldina de Oliveira, 109, Sta Rosa Lima, 91175-110;109
+3047881;615,82;6;R.. Fernandes Vieira, 609, Bom fim, 90035-091;609
+3075621;163,66;1;R.. Alvaro Chaves, 292, Floresta, 90220-040;292
+3080820;554,78;10;R.. Barao do Amazonas, 1618, Partenon, 90670-002;1618
+3090817;514,98;10;Estr.. Joao de Oliveira Remiao, 712, Lomba Pinheiro, 91550-000;712
+3099776;205,56;11;Pca.. Francisco Alves, 62, Vl Joao Pessoa, 91520-070;62
+3171558;1.202,84;1;R.. Padre Diogo Feijo, 554, Humaita, 90240-421;554
+3171833;1.352,00;15;R.. Jose Alves de Castro, 130, Vila Nova, 91750-090;130
+3176053;328,50;10;R.. Machado de Assis, 33, Partenon, 90620-260;33
+3179044;538,80;15;R.. Mexico, 327, Belem Velho, 91787-247;327
+3191915;30,08;13;Av.. Nonoai, 216, Nonoai, 91720-000;216
+3191931;30,08;13;Av.. Nonoai, 216, Nonoai, 91720-000;216
+3193225;966,97;9;Av.. Joao Pessoa, 325, Cidade Baixa, 90040-000;325
+3197638;14.927,78;1;R.. dos Pescadores, 1809, Arquipelago, 90090-180;1809
+3245373;410,78;9;R.. Dr Voltaire Pires, 1023, Santo Antonio, 90640-160;1023
+3264220;133,58;7;R.. Sao Felipe, 145, Bom Jesus, 91420-280;145
+3275442;2.008,38;6;R.. dos Andradas, 717, Centro Historic, 90020-003;717
+3276570;513,38;15;Av.. Edgar Pires de Castro, 1325, Hipica, 91787-235;1325
+3281876;454,23;15;R.. Luiz Otavio, 779, Belem Velho, 91787-330;779
+3319911;166,02;15;Estr.. Afonso Lourenco Mariante, 4501, Lomba Pinheiro, 91550-;4501
+3325679;1.000,23;13;R.. Dr Barcelos, 2675, Cavalhada, 91910-251;2675
+3325962;1.428,60;5;Av.. Baltazar de Oliveira Garcia, 5030, Rubem Berta, 91180-000;5030
+3333930;468,40;7;Av.. Protasio Alves, 6131, Bom Jesus, 91310-003;6131
+3339327;367,17;5;Av.. Martim Felix Berta, 370, Rubem Berta, 91250-200;370
+3345360;125,44;12;Ac.. A Vila do Barracao, 72, Santa Tereza, 90843-020;72
+3349306;1.127,59;10;Estr.. Joao de Oliveira Remiao, 5683, Lomba Pinheiro, 91560-000;5683
+3362787;521,44;7;R.. Dr Affonso Sanmartin, 119, Jardim do Salso, 91410-100;119
+3393879;116,59;5;R.. Salcedo, 60, Costa e Silva, 91180-790;60
+3406164;2.253,11;1;R.. Santos Dumont, 631, Floresta, 90230-241;631
+3412725;90,71;4;Av.. Baltazar de Oliveira Garcia, 2365, Passo das Pedra, 91150-001;2365
+3428567;536,67;5;Av.. Vila Santissima Trindade, 483, Sta Rosa Lima, 91160-800;483
+3442713;30,08;14;Av.. da Serraria, 1202, Guaruja, 91770-010;1202
+3443582;30,02;5;Av.. Bernardino Silveira de Amorim, 2121, Sta Rosa Lima, 91160-;2121
+3458946;98,71;1;R.. Morretes, 283, Santa m Goretti, 91030-300;283
+3470342;1.371,49;10;R.. Santa Catarina Estr Joao de o Remiao, 30, Lomba Pinheiro,;30
+3475077;1.433,84;10;Estr.. Joao de Oliveira Remiao, 1788, Lomba Pinheiro, 91550-000;1788
+3501469;490,43;10;Estr.. Joao de Oliveira Remiao, 2797, Lomba Pinheiro, 91550-000;2797
+3523136;500,02;9;R.. Jose de Alencar, 1792, Azenha, 90880-480;1792
+3525384;795,14;13;Av.. Otto Niemeyer, 3251, Cavalhada, 91740-188;3251
+3533158;785,82;9;Trav.. Ouvidor, 210, Santo Antonio, 90650-050;210
+3535185;1.218,85;4;R.. Ten ary Tarrago, 1594, Jardim itu, 91225-001;1594
+3538087;128,59;13;R.. Cel Timoteo, 72, Cristal, 91910-680;72
+3538699;20.149,07;12;R.. Cruzeiro do sul, 2471, Santa Tereza, 90840-000;2471
+3550508;163,66;1;R.. Voluntarios da Patria, 901, Floresta, 90230-011;901
+3567222;2.339,31;15;Estr.. Joao Antonio Silveira, 1450, Restinga, 91790-512;1450
+3578607;1.987,69;6;R.. dos Andradas, 891, Centro Historic, 90020-005;891
+3591530;626,46;2;Av.. Francisco Silveira Bitencourt, 1550, Sarandi, 91150-010;1550
+3607615;1.255,94;13;R.. Afonso Arinos, 134, Camaqua, 91910-350;134
+3672859;2.507,65;14;Pca.. Senador Alberto Pasqualini, 240, Ipanema, 91760-051;240
+3694836;30,02;1;R.. Voluntarios da Patria, 1073, Floresta, 90230-011;1073
+3707881;2.194,56;10;R.. Albion, 588, Partenon, 91530-010;588
+3708748;66,88;15;Estr.. Joao Antonio Silveira, 2641, Restinga, 91790-117;2641
+3718670;369,08;14;Av.. da Serraria, 543, Espirito Santo, 91770-010;543
+3725537;713,65;1;Av.. Sertorio, 91, Navegantes, 91020-001;91
+3738671;1.953,39;7;Av.. Protasio Alves, 4207, Bom Jesus, 91310-002;4207
+3739589;357,79;1;R.. Souza Reis, 414, Sao Joao, 90240-650;414
+3743314;368,84;2;R.. Sylvio Sanson, 823, Sarandi, 91130-330;823
+3765709;121,43;5;R.. Ministro ruy Rosado de Aguiar Junior, 146, Mario Quintana,;146
+3765768;96,70;5;R.. Irmao Antonio Cecchin, 636, Mario Quintana, 91253-092;636
+3765806;164,29;5;R.. Frederico Eduardo Sobbé, 209, Mario Quintana, 91253-094;209
+3768783;183,44;5;R.. Emidio Perondi, 100, Mario Quintana, 91253-110;100
+3769038;133,58;5;R.. Ministro ruy Rosado de Aguiar Junior, 182, Mario Quintana,;182
+3769860;691,49;6;R.. Voluntarios da Patria, 70, Centro Historic, 90030-000;70
+3811794;579,53;15;R.. Dr Antonio Mazzaferro Neto, 439, Hipica, 91787-196;439
+3820572;245,48;16;R.. Onze Estr Otaviano Jose Pinto, 821, Lami, 91787-575;821
+3820769;51,32;9;R.. Caldre e Fiao, 248, Santo Antonio, 90660-110;248
+3827208;30,02;5;R.. Irmao Antonio Cecchin, 601, Mario Quintana, 91253-092;601
+3837734;555,47;6;R.. Fernando Gomes, 140, Moinhos Vento, 90510-010;140
+3842614;273,66;5;R.. dos Maias, 1642, Sta Rosa Lima, 91170-200;1642
+1597;4.378,43;1;R.. Dr Salomao Pires Abrahao, 145, Arquipelago, 90090-060;145
+20060;364,96;1;R.. Ernesto Capelli, 61, Farrapos, 90250-732;61
+28894;619,96;1;R.. Jose Baldi, 21, Farrapos, 90245-310;21
+30090;8.554,13;1;Av.. A j Renner, 1667, Humaita, 90250-000;1667
+32883;1.280,30;1;R.. Frederico Mentz, 490, Farrapos, 90240-110;490
+37656;389,09;1;R.. Joao Moreira Maciel, 8330, 90250-680;8330
+38121;5.804,49;1;R.. Frederico Mentz, 1050, Navegantes, 90240-110;1050
+38849;6.950,74;1;Trav.. Venezuela, 249, Humaita, 90240-220;249
+50296;6.642,36;1;R.. Voluntarios da Patria, 2252, Floresta, 90230-010;2252
+52973;1.175,74;1;Av.. Presidente Franklin Roosevelt, 347, Navegantes, 90230-000;347
+53155;860,85;1;Av.. Presidente Franklin Roosevelt, 382, Navegantes, 90230-001;382
+53694;789,16;1;R.. Cairu, 416, Navegantes, 90230-030;416
+53740;740,21;1;R.. Cairu, 372, Navegantes, 90230-030;372
+53775;7.761,81;1;R.. Cairu, 352, Navegantes, 90230-030;352
+68497;1.052,69;1;R.. Conselheiro Travassos, 318, Sao Geraldo, 90230-140;318
+68500;18.496,46;1;R.. Conselheiro Travassos, 306, Sao Geraldo, 90230-140;306
+73865;3.148,55;1;Av.. Brasil, 503, Sao Geraldo, 90230-061;503
+76899;337,61;1;Av.. Sao Pedro, 515, Sao Geraldo, 90230-120;515
+80616;1.176,05;1;Av.. Brasil, 1088, Navegantes, 90230-060;1088
+86525;0,00;1;Av.. Polonia, 822, Sao Geraldo, 90230-110;822
+87688;1.404,85;1;Av.. Benjamin Constant, 1093, Sao Geraldo, 90550-004;1093
+93734;1.525,92;1;Av.. Bahia, 1113, Sao Geraldo, 90240-552;1113
+95176;1.068,50;1;Av.. Farrapos, 2285, Sao Geraldo, 90220-006;2285
+95664;3.702,16;1;Av.. Viena, 42, Sao Geraldo, 90240-020;42
+96059;188,32;1;Av.. Amazonas, 1300, Sao Geraldo, 90240-542;1300
+98655;1.095,88;1;Av.. Benjamin Constant, 1809, Floresta, 90550-005;1809
+103365;1.360,21;1;R.. Hoffmann, 266, Floresta, 90220-170;266
+105082;2.154,50;1;R.. Gaspar Martins, 120, Floresta, 90220-160;120
+107212;722,33;1;R.. Conde de Porto Alegre, 472, Floresta, 90220-210;472
+108340;276,69;1;Av.. Cristovao Colombo, 1754, Floresta, 90560-001;1754
+111414;881,25;1;R.. Cancio Gomes, 703, Floresta, 90220-060;703
+114391;1.055,48;1;Av.. Cristovao Colombo, 992, Floresta, 90560-001;992
+116335;760,28;1;R.. Ernesto Alves, 127, Floresta, 90220-190;127
+116793;967,12;1;R.. Comendador Coruja, 189, Floresta, 90220-180;189
+117447;358,68;1;R.. Ramiro Barcelos, 185, Floresta, 90035-004;185
+117951;1.390,82;1;R.. da Conceicao, 414, Floresta, 90030-030;414
+119784;1.671,86;1;Av.. Farrapos, 481, Floresta, 90220-004;481
+122556;275,05;1;R.. Ramiro Barcelos, 451, Floresta, 90035-004;451
+122564;543,74;1;R.. Ramiro Barcelos, 457, Floresta, 90035-004;457
+125814;5.117,37;1;Av.. Benjamin Constant, 367, Sao Joao, 90550-003;367
+128805;392,23;1;R.. Sao Salvador, 43, Santa m Goretti, 91030-240;43
+139939;305,14;2;Av.. Jaime Vignoli, 8, Anchieta, 90200-110;8
+153494;30,08;2;R.. da Varzea, 366, Jar sao Pedro, 91040-600;366
+153931;646,08;2;Av.. Polar, 354, Jardim Floresta, 91040-550;354
+174238;1.127,23;2;R.. Joao Moraes, 7, Sarandi, 91120-540;7
+181161;857,35;2;R.. Vinte Cinco de Outubro, 115, Sarandi, 91140-500;115
+186376;12.042,78;2;Av.. Faria Lobato, 535, Sarandi, 91110-460;535
+210595;13.354,77;2;R.. Senhor do bom fim, 669, Sarandi, 91140-380;669
+216690;893,25;2;Av.. Francisco Silveira Bitencourt, 1520, Sarandi, 91150-010;1520
+228397;1.772,76;2;Av.. Bernardino Silveira Pastoriza, 550, Sta Rosa Lima, 91160-310;550
+240176;5.333,62;2;Av.. Assis Brasil, 5926, Sarandi, 91110-000;5926
+240648;217,41;2;R.. Vicente Ferreira Gomes, 20, Sarandi, 91110-420;20
+243248;785,55;2;Av.. Sarandi, 10, Sarandi, 91130-450;10
+245496;2.482,04;2;Av.. Salvador Leao, 925, Sarandi, 91130-700;925
+250813;4.284,26;2;R.. Dona Alzira, 952, Sao Sebastiao, 91110-010;952
+251003;269,42;2;R.. Dona Alzira, 660, Sao Sebastiao, 91110-010;660
+259969;3.443,62;2;R.. Zeferino Dias, 265, Sarandi, 91130-480;265
+270687;1.645,57;3;Av.. Joao Xxiii, 415, Sao Sebastiao, 91060-100;415
+284513;766,01;3;Av.. Mena Barreto, 360, Santa m Goretti, 91030-470;360
+285781;519,13;3;Av.. Assis Brasil, 1190, Santa m Goretti, 91010-001;1190
+287083;465,78;3;R.. Barao de Tramandai, 158, Passo da Areia, 91030-380;158
+289370;310,22;3;Av.. Assis Brasil, 1782, Passo da Areia, 91010-001;1782
+304182;6.350,99;3;R.. Fontoura Xavier, 356, Cristo Redentor, 91040-370;356
+319546;405,32;3;Av.. Assis Chateaubriand, 256, Sao Sebastiao, 91060-440;256
+324426;1.020,74;3;Av.. Panamericana, 877, Jardim Lindoia, 91050-001;877
+332488;1.359,14;3;Av.. Bogota, 345, Sao Sebastiao, 91060-000;345
+363294;750,90;3;Av.. dos Industriarios, 625, Passo da Areia, 90520-400;625
+372978;321,18;3;Av.. Assis Brasil, 1827, Passo da Areia, 91010-005;1827
+378550;298,73;3;R.. Luzitana, 1353, Higienopolis, 90520-080;1353
+381578;920,49;3;R.. Itapeva, 528, Passo da Areia, 91350-080;528
+381802;94,13;3;Av.. Joao Wallig, 469, Passo da Areia, 91340-000;469
+385247;642,69;3;R.. Atanasio Belmonte, 377, Boa Vista, 90520-550;377
+400530;868,35;4;R.. Fernando Cortez, 60, Cristo Redentor, 91350-270;60
+402818;850,41;4;Av.. Assis Brasil, 3941, Vila Ipiranga, 91010-007;3941
+403822;2.143,09;4;R.. Mali, 188, Vila Ipiranga, 91370-230;188
+407593;791,00;4;R.. Sape, 565, Vila Ipiranga, 91350-050;565
+414972;361,96;4;R.. Gomes de Freitas, 230, Jardim itu, 91380-000;230
+416037;368,31;4;R.. Felisberto Pereira, 449, Jardim itu, 91380-440;449
+420930;848,99;4;Av.. do Forte, 796, Vila Ipiranga, 91360-000;796
+420948;139,77;4;Av.. do Forte, 782, Vila Ipiranga, 91360-000;782
+429805;3.869,35;4;Av.. Benno Mentz, 1008, Vila Ipiranga, 91370-020;1008
+441775;446,85;4;Av.. Alexandre Luiz, 190, Jardim itu, 91225-090;190
+447587;543,54;4;R.. Ten ary Tarrago, 2170, Jardim itu, 91225-001;2170
+455113;2.029,71;4;Av.. dos Prazeres, 348, Vila Jardim, 91320-150;348
+464015;5.573,00;4;Av.. Saturnino de Brito, 1543, Vila Jardim, 91320-001;1543
+466735;1.490,00;4;R.. Cruz e Souza, 100, Jardim Sabara, 91215-100;100
+468088;791,04;4;Av.. Saturnino de Brito, 1247, Vila Jardim, 91320-000;1247
+479543;515,80;4;R.. Ten ary Tarrago, 1310, Jardim Sabara, 91225-001;1310
+481564;3.029,84;4;R.. Frederico Kniestedt, 847, Costa e Silva, 91150-090;847
+503444;35,80;4;R.. Sotero dos Reis, 142, Passo das Pedra, 91230-450;142
+511943;567,64;4;R.. Sebastiao Barreto, 119, Passo das Pedra, 91230-430;119
+513881;2.314,51;4;R.. Sebastiao Barreto, 208, Passo das Pedra, 91230-430;208
+519456;217,42;4;Av.. Martim Felix Berta, 541, Jar Leopoldina, 91250-235;541
+520969;521,07;4;R.. Dr Vargas Neto, 1030, Mario Quintana, 91250-000;1030
+527025;420,96;5;Av.. Bernardino Silveira Pastoriza, 561, Sta Rosa Lima, 91160-310;561
+528170;1.643,18;5;Av.. Bernardino Silveira Pastoriza, 851, Sta Rosa Lima, 91160-310;851
+542741;415,35;5;Av.. Donario Braga, 567, Sta Rosa Lima, 91160-360;567
+546593;352,38;5;Av.. Bernardino Silveira de Amorim, 2950, Sta Rosa Lima, 91170-;2950
+552054;813,69;5;Bc.. do Paulino, 43, Sta Rosa Lima, 91170-400;43
+552127;1.041,39;5;Bc.. do Paulino, 125, Sta Rosa Lima, 91170-400;125
+563803;1.316,90;5;R.. dos Maias, 1960, Rubem Berta, 91170-200;1960
+575470;1.240,65;5;R.. Alberto Rangel, 524, Rubem Berta, 91180-840;524
+575925;2.646,25;5;Av.. Joao Ferreira Jardim, 347, Rubem Berta, 91180-290;347
+576816;891,94;5;R.. Antonio Francisco Lisboa, 40, Rubem Berta, 91180-040;40
+586080;155,89;5;Av.. Martim Felix Berta, 1355, Mario Quintana, 91260-645;1355
+616834;4.527,04;5;Av.. Martim Felix Berta, 2787, Mario Quintana, 91270-650;2787
+625060;727,92;5;Av.. Delegado ely Correa Prado, 287, Mario Quintana, 91260-300;287
+649880;684,41;6;R.. da Conceicao, 15, Centro Historic, 90030-030;15
+650862;818,80;6;R.. Gen Joao Manoel, 191, Centro Historic, 90010-030;191
+651648;127,85;6;Le.. Mercado Publico Central-Externo, 81, Centro Historic, 90020-;81
+652261;430,88;6;Le.. Mercado Publico Central-Externo, 37, Centro Historic, 90020-;37
+654248;1.312,95;6;R.. Voluntarios da Patria, 70, Centro Historic, 90030-000;70
+654680;1.684,10;6;Pca.. Rui Barbosa, 149, Centro Historic, 90030-100;149
+654973;355,46;6;R.. Voluntarios da Patria, 188, Centro Historic, 90030-000;188
+655767;784,45;6;Av.. Julio de Castilhos, 453, Centro Historic, 90030-131;453
+656070;1.250,73;6;R.. Cel Vicente, 150, Centro Historic, 90030-040;150
+656747;145,58;6;R.. Vigario Jose Ignacio, 304, Centro Historic, 90020-110;304
+656941;116,08;6;R.. Voluntarios da Patria, 147, Centro Historic, 90030-002;147
+657263;2.411,76;6;R.. Dr Flores, 52, Centro Historic, 90020-120;52
+664618;538,65;6;Av.. Senador Salgado Filho, 230, Centro Historic, 90010-220;230
+667730;1.469,68;6;R.. Riachuelo, 1335, Centro Historic, 90010-271;1335
+674257;373,47;6;R.. dos Andradas, 879, Centro Historic, 90020-005;879
+682020;1.234,70;6;R.. Gen Auto, 250, Centro Historic, 90010-380;250
+682462;96,04;6;R.. Demetrio Ribeiro, 846, Centro Historic, 90010-312;846
+689777;141,26;6;R.. Gen Lima e Silva, 67, Centro Historic, 90050-101;67
+690333;426,34;6;R.. Jose do Patrocinio, 83, Centro Historic, 90050-001;83
+695084;696,56;6;R.. Santo Antonio, 254, Independencia, 90220-010;254
+705756;302,09;6;R.. Padre Chagas, 220, Moinhos Vento, 90570-080;220
+707040;69.942,24;6;R.. Padre Chagas, 25, Moinhos Vento, 90570-080;25
+707678;475,67;8;Av.. Mercedes, 169, Moinhos Vento, 90560-060;169
+710059;176,52;8;R.. Quintino Bocaiuva, 156, Moinhos Vento, 90440-050;156
+713902;1.611,31;8;R.. Vinte Quatro de Outubro, 1344, Auxiliadora, 90510-001;1344
+714704;420,62;8;R.. Marques do Pombal, 1111, Auxiliadora, 90540-001;1111
+725455;4.171,60;6;R.. Dona Laura, 40, Rio Branco, 90430-090;40
+726788;1.203,90;6;R.. Miguel Tostes, 457, Rio Branco, 90430-061;457
+731986;813,89;6;Av.. Cel Lucas de Oliveira, 299, Mont Serrat, 90450-045;299
+741000;3.694,34;6;R.. Gen Joao Telles, 528, Bom fim, 90035-120;528
+746606;1.213,52;6;R.. Sao Manoel, 161, Rio Branco, 90430-172;161
+747408;189,92;6;R.. Mariante, 855, Rio Branco, 90430-181;855
+756903;4.383,84;7;R.. Eng Ildefonso Simoes Lopes, 45, Tres Figueiras, 91330-180;45
+768928;352,00;7;Av.. Jose Gertum, 62, Chacara Pedras, 91330-450;62
+782750;1.533,91;7;R.. Dr Rodrigues Alves, 23, Chacara Pedras, 91330-240;23
+801429;396,74;7;R.. Guadalajara, 845, Jardim Sabara, 91215-290;845
+803987;2.450,63;7;Bc.. do Franklin, 255, Jardim Sabara, 91210-060;255
+808504;525,50;7;Av.. Protasio Alves, 4685, Bom Jesus, 91310-002;4685
+814318;2.222,03;7;R.. Santa Izabel, 763, Bom Jesus, 91420-690;763
+828750;205,74;7;R.. Sao Felipe, 310, Bom Jesus, 91420-280;310
+839523;1.055,49;7;Av.. Protasio Alves, 5911, Bom Jesus, 91310-003;5911
+840068;709,22;7;R.. Carumbe, 129, Bom Jesus, 91420-040;129
+841099;431,29;7;R.. Bom Jesus, 667, 91420-030;667
+841617;1.660,89;7;Av.. Protasio Alves, 6547, Jardim Carvalho, 91310-003;6547
+848492;201,07;7;R.. Palmares do sul, 260, Jardim Carvalho, 91430-180;260
+852007;1.364,87;7;Va.. Um Cefer Dois, 805, Jardim Carvalho, 91430-730;805
+867098;307,01;7;R.. Antonio Candido Ferreira (bage), 53, Jardim Carvalho, 91430-;53
+871060;1.706,02;7;Av.. Antonio Carvalho, 1451, Jardim Carvalho, 91430-001;1451
+873209;1.945,61;7;Av.. Antonio Carvalho, 571, Jardim Carvalho, 91430-001;571
+876100;1.228,64;7;Av.. Antonio Carvalho, 311, Jardim Carvalho, 91430-001;311
+878855;5.780,10;7;Av.. Bento Goncalves, 6952, Agronomia, 91540-000;6952
+886327;1.295,79;8;R.. Eudoro Berlink, 955, Mont Serrat, 90450-030;955
+910635;943,87;8;R.. Felipe de Oliveira, 126, Santa Cecilia, 90630-000;126
+911186;5.680,54;8;R.. Santa Cecilia, 1540, Santa Cecilia, 90630-190;1540
+914827;174,33;8;R.. Regente, 261, Petropolis, 90470-170;261
+935549;1.323,79;8;Av.. Protasio Alves, 3150, Petropolis, 90410-007;3150
+942332;646,71;8;Av.. Cel Lucas de Oliveira, 2558, Petropolis, 90630-084;2558
+951510;529,02;8;R.. Buenos Aires, 171, Jardim Botanico, 90670-130;171
+952141;2.195,02;8;R.. Alcebiades Caetano da Silva, 48, Jardim Botanico, 90610-210;48
+952613;567,03;8;R.. Barao do Amazonas, 1175, Jardim Botanico, 90670-004;1175
+960055;1.459,16;8;R.. Felizardo Furtado, 348, Jardim Botanico, 90670-090;348
+966568;299,98;8;R.. Valparaiso, 776, Jardim Botanico, 90690-300;776
+971022;896,21;8;R.. Prof Freitas Cabral, 193, Jardim Botanico, 90690-130;193
+985503;798,43;9;R.. Leopoldo Bier, 346, Santana, 90620-100;346
+992151;155,87;8;R.. Vicente da Fontoura, 1591, Santana, 90640-003;1591
+992178;627,50;8;R.. Vicente da Fontoura, 1619, Santana, 90640-003;1619
+992984;1.262,25;8;R.. Sao Francisco, 936, Partenon, 90620-070;936
+1003690;298,42;9;Av.. Joao Pessoa, 2434, Santana, 90040-001;2434
+1008986;1.186,51;9;R.. da Republica, 174, Cidade Baixa, 90050-320;174
+1012410;1.335,41;9;R.. Gen Lima e Silva, 601, Cidade Baixa, 90050-101;601
+1013394;434,05;9;R.. Alberto Torres, 77, Cidade Baixa, 90050-080;77
+1015044;1.198,56;9;R.. Jose do Patrocinio, 824, Cidade Baixa, 90050-002;824
+1016172;285,40;9;Av.. Joao Pessoa, 1015, Cidade Baixa, 90040-000;1015
+1019627;989,25;9;R.. Joao Alfredo, 688, Cidade Baixa, 90050-230;688
+1023330;1.211,63;9;R.. Baroneza do Gravatai, 88, Cidade Baixa, 90160-070;88
+1026372;1.922,61;9;R.. Jose do Patrocinio, 1197, Azenha, 90050-004;1197
+1035720;164,13;9;Av.. Getulio Vargas, 374, Menino Deus, 90150-000;374
+1041355;1.685,23;9;R.. Botafogo, 712, Menino Deus, 90150-050;712
+1043170;594,64;9;R.. Mucio Teixeira, 1384, Menino Deus, 90150-090;1384
+1062417;161,39;9;R.. Visconde do Herval, 1341, Azenha, 90130-151;1341
+1079689;2.274,64;10;R.. Sao Manoel, 2412, Partenon, 90620-225;2412
+1097318;4.033,88;9;R.. Delfino Riet, 183, Santo Antonio, 90660-120;183
+1100734;2.486,19;9;R.. Antenor Lemos, 126, Menino Deus, 90850-100;126
+1109715;498,81;9;Av.. Porto Alegre, 228, Azenha, 90880-130;228
+1111345;281,14;9;R.. Saudavel, 40, Medianeira, 90880-140;40
+1116215;1.621,59;9;Av.. Cel Gastao Haslocher Mazeron, 554, Medianeira, 90880-370;554
+1119095;362,10;9;R.. Dr Dias da Cruz, 278, Medianeira, 90880-380;278
+1120239;2.417,55;9;Av.. Niteroi, 580, Medianeira, 90880-270;580
+1129910;669,35;10;R.. Barao do Amazonas, 1410, Partenon, 90670-002;1410
+1140574;1.113,92;10;R.. Capitao Pedro Werlang, 58, Partenon, 91530-110;58
+1140620;3.497,95;10;R.. Prof Guerreiro Lima, 377, Partenon, 91530-190;377
+1147315;404,01;10;R.. Dr Pereira da Cunha, 13, Partenon, 91530-290;13
+1147366;1.628,07;10;R.. Dr Pereira da Cunha, 57, Partenon, 91530-290;57
+1147943;659,64;11;R.. Ten Alpoim, 192, Partenon, 91510-710;192
+1149873;237,35;11;R.. Ten Alpoim, 698, Vl Joao Pessoa, 91510-710;698
+1158651;567,12;11;Av.. Bento Goncalves, 4573, Vila sao Jose, 90650-003;4573
+1158996;4.036,68;11;R.. Martins de Lima, 172, Vila sao Jose, 91520-000;172
+1160850;1.474,07;11;R.. Saldanha da Gama, 796, Vila sao Jose, 91520-630;796
+1170449;3.352,85;11;R.. Borborema, 736, Vila sao Jose, 91520-030;736
+1171917;1.967,74;11;R.. Dona Firmina, 624, Vila sao Jose, 91520-210;624
+1203126;1.363,39;10;Av.. Bento Goncalves, 6077, Partenon, 91540-000;6077
+1207903;143,59;10;Av.. Bento Goncalves, 6765, Agronomia, 91540-000;6765
+1212095;1.378,88;10;Bc.. do David, 218, Lomba Pinheiro, 91550-160;218
+1215248;954,31;10;Av.. Bento Goncalves, 8843, Lomba Pinheiro, 91540-000;8843
+1215990;2.019,01;10;Av.. Bento Goncalves, 9271, Lomba Pinheiro, 91540-000;9271
+1239392;700,29;10;R.. Dolores Duran, 2126, Lomba Pinheiro, 91540-220;2126
+1250914;5.845,59;10;Estr.. Joao de Oliveira Remiao, 4200, Lomba Pinheiro, 91560-000;4200
+1250949;128,85;10;Estr.. Joao de Oliveira Remiao, 4160, Lomba Pinheiro, 91560-000;4160
+1254154;792,46;10;Estr.. Joao de Oliveira Remiao, 6470, Lomba Pinheiro, 91560-000;6470
+1259598;209,38;10;R.. Barao do Amazonas, 2110, Partenon, 90660-000;2110
+1266179;235,18;11;R.. Paulino Azurenha, 340, Partenon, 90680-240;340
+1273337;5.399,87;11;Av.. Prof Oscar Pereira, 2582, Gloria, 90660-080;2582
+1280686;407,39;11;R.. Graciano Azambuja, 47, Partenon, 90680-430;47
+1284002;559,14;11;Av.. Cel Aparicio Borges, 1640, Partenon, 90680-570;1640
+1342959;509,67;12;R.. Dona Mosa, 215, Cascata, 91712-090;215
+1367013;4.231,76;12;R.. Anchieta, 328, Gloria, 90870-010;328
+1369059;674,83;12;R.. Anchieta, 147, Teresopolis, 90870-010;147
+1404164;751,08;12;R.. Mutualidade, 258, Santa Tereza, 90850-340;258
+1404512;4.418,55;12;R.. Caixa Economica, 361, Santa Tereza, 90840-610;361
+1408151;612,77;12;Av.. Chui, 68, Cristal, 90820-080;68
+1416839;722,44;12;R.. Cruzeiro do sul, 2475, Santa Tereza, 90840-000;2475
+1418602;623,87;12;Av.. Jacui, 1511, Cristal, 90810-150;1511
+1444840;3.512,40;12;R.. Jaguari, 582, Cristal, 90820-180;582
+1448307;479,89;13;Av.. Icarai, 1400, Cristal, 90810-000;1400
+1479350;416,97;13;R.. Alfredo Silveira Dias, 199, Nonoai, 90830-180;199
+1482521;1.019,69;13;Av.. Clemenciano Barnasque, 460, Teresopolis, 91720-260;460
+1504703;592,75;13;R.. Cel Massot, 760, Cristal, 91910-530;760
+1510444;3.989,84;13;Av.. da Cavalhada, 2401, Cavalhada, 91740-001;2401
+1513044;309,90;13;R.. Camaqua, 288, Camaqua, 91910-630;288
+1519182;5.676,59;13;R.. Silvio Silveira Soares, 2321, Camaqua, 91910-460;2321
+1525867;4.479,68;13;Av.. Wenceslau Escobar, 1451, Vila Assuncao, 91900-605;1451
+1527835;1.427,73;13;Av.. Guaiba, 2176, Vila Assuncao, 91900-420;2176
+1537105;3.128,99;13;Av.. Copacabana, 182, Vila Assuncao, 91900-050;182
+1538535;595,90;13;Av.. Wenceslau Escobar, 858, Tristeza, 91910-712;858
+1544330;383,21;13;R.. Jose Gomes, 274, Tristeza, 91910-280;274
+1553186;939,45;13;Trav.. Escobar, 351, Camaqua, 91910-400;351
+1555723;1.342,61;13;R.. Dr Pereira Neto, 1443, Camaqua, 91920-530;1443
+1556916;497,73;13;R.. Dr Mario Totta, 2764, Camaqua, 91920-130;2764
+1565320;15.126,15;14;R.. Padre Joao Batista Reus, 3267, Cavalhada, 91920-001;3267
+1567080;16.031,99;13;Av.. da Cavalhada, 2490, Cavalhada, 91740-000;2490
+1571079;1.135,63;13;Av.. Otto Niemeyer, 3285, Cavalhada, 91740-188;3285
+1571427;565,40;13;Av.. Otto Niemeyer, 3503, Cavalhada, 91740-188;3503
+1571486;1.122,42;13;Av.. Otto Niemeyer, 3565, Cavalhada, 91740-188;3565
+1573071;495,45;13;Av.. da Cavalhada, 3074, Cavalhada, 91740-000;3074
+1580434;834,74;13;R.. Gregorio Perez, 324, Cavalhada, 91740-350;324
+1586653;278,12;13;Av.. Otto Niemeyer, 765, Tristeza, 91910-001;765
+1588486;458,22;14;R.. Dr Pereira Neto, 754, Tristeza, 91920-530;754
+1589016;7.850,20;14;R.. Dr Armando Barbedo, 981, Tristeza, 91920-520;981
+1613731;430,76;14;Av.. da Cavalhada, 4260, Vila Nova, 91740-000;4260
+1614789;3.387,50;14;R.. Jerolomo Minuzo, 525, Vila Nova, 91750-830;525
+1623052;477,87;14;Av.. Cel Marcos, 2055, Pedra Redonda, 91760-000;2055
+1623087;971,77;14;R.. Manoel Leao, 162, Pedra Redonda, 91760-560;162
+1662481;6.949,15;14;Av.. Eduardo Prado, 1571, Ipanema, 91751-000;1571
+1663143;831,76;14;Av.. Eduardo Prado, 1665, Ipanema, 91751-000;1665
+1664492;4.996,07;14;Av.. Eduardo Prado, 2003, Ipanema, 91751-000;2003
+1664557;117,93;14;Av.. Eduardo Prado, 2073, Ipanema, 91751-000;2073
+1665642;440,60;14;Av.. Eduardo Prado, 650, Vila Nova, 91751-000;650
+1683578;4.196,86;15;Estr.. Cristiano Kraemer, 121, Vila Nova, 91750-060;121
+1710532;2.241,30;15;Av.. Vereador Roberto Landell de Moura, 465, Campo Novo,;465
+1714120;4.024,91;14;R.. Joao Ribeiro de Barros, 80, Espirito Santo, 91770-460;80
+1725556;506,97;14;R.. Victor Issler, 293, Espirito Santo, 91770-070;293
+1754793;2.096,62;16;R.. Ernesto Porfirio dos Reis, 359, Aberta dos Morr, 91755-040;359
+1755560;469,37;16;R.. Francisco Mattos Terres, 240, Aberta dos Morr, 91755-070;240
+1757393;523,28;16;R.. Francisco da Silveira Pastoriza, 40, Aberta dos Morr, 91755-060;40
+1779150;384,57;15;R.. Silvio r Sirangelo, 925, Restinga, 91790-030;925
+1782525;316,38;15;Ac.. H sq Tres Segunda uv vl n Restinga, 2165, Restinga, 91795-;2165
+1786210;356,17;15;R.. Rubem Pereira Torelly, 2452, Restinga, 91790-480;2452
+1792547;2.344,08;15;R.. Eng Homero Carlos Simon, 4492, Restinga, 91790-330;4492
+1795813;197,40;15;Ac.. Tres qf Quarta uv vl n Restinga, 4722, Restinga, 91795-160;4722
+1837524;2.434,62;16;Av.. Principal da Ponta Grossa, 468, Ponta Grossa, 91780-608;468
+1849743;873,34;16;R.. Jorge Mello Guimaraes, 827, Belem Novo, 91780-020;827
+1850130;707,93;16;R.. Dr Cecilio Monza, 10921, Belem Novo, 91780-060;10921
+1986171;324,25;5;Av.. Martim Felix Berta, 468, Rubem Berta, 91250-200;468
+1993038;1.076,28;3;R.. Toroqua, 87, Passo da Areia, 91030-090;87
+1994743;317,80;3;R.. Dr Ernesto Miranda, 5, Jar sao Pedro, 91040-480;5
+1994816;1.211,04;1;Av.. Assis Brasil, 416, Santa m Goretti, 91010-000;416
+2008963;1.609,74;5;Av.. Bernardino Silveira de Amorim, 1379, Sta Rosa Lima, 91160-;1379
+2031418;859,96;10;R.. Continental-Lomba do Pinheiro, 392, Lomba Pinheiro, 91570-;392
+2033666;2.840,24;6;R.. Riachuelo, 1570, Centro Historic, 90010-273;1570
+2050218;3.182,89;10;Estr.. Joao de Oliveira Remiao, 6650, Lomba Pinheiro, 91560-000;6650
+2058766;330,38;2;Av.. Martins Bastos, 169, Sarandi, 91120-420;169
+2075199;1.296,99;8;Av.. Protasio Alves, 2618, Petropolis, 90410-006;2618
+2109492;1.371,52;5;R.. Dom Helder Camara, 98, Sta Rosa Lima, 91160-630;98
+2111128;129,70;5;R.. D Vila Fraternidade, 44, Sta Rosa Lima, 91160-620;44
+2136350;1.905,82;4;Av.. Gomes de Carvalho, 292, Passo das Pedra, 91230-060;292
+2193450;1.438,56;13;R.. Cel Joao Pinto, 126, Nonoai, 90840-750;126
+2196344;193,53;5;R.. Joao da Silva Bueno, 338, Morro Santana, 91260-020;338
+2228815;1.771,47;4;Av.. Sertorio, 9720, Costa e Silva, 91130-720;9720
+2243911;131,68;15;Av.. Econ Nilo Wulff, 916, Restinga, 91790-000;916
+2275333;1.264,80;5;Av.. Protasio Alves, 7877, Morro Santana, 91310-003;7877
+2296730;5.693,78;16;R.. Dr Hermes Pacheco, 40, Aberta dos Morr, 91755-010;40
+2302268;5.271,09;5;Av.. Edu Las-Casas, 110, Parque sta fe, 91180-550;110
+2305135;1.678,75;2;R.. Julio Kovalski, 145, Jar sao Pedro, 91040-380;145
+2311003;711,59;4;Av.. Martim Felix Berta, 705, Jar Leopoldina, 91250-235;705
+2341093;295,24;4;R.. Guerra Junqueiro, 55, Jardim Sabara, 91215-310;55
+2352966;106,15;9;R.. Jose do Patrocinio, 811, Cidade Baixa, 90050-003;811
+2363046;232,63;13;Av.. da Cavalhada, 3778, Cavalhada, 91740-000;3778
+2367220;602,02;5;Av.. Rachel Wolfrid, 338, Morro Santana, 91260-240;338
+2367343;409,94;5;Av.. Rachel Wolfrid, 330, Morro Santana, 91260-240;330
+2377705;175,31;13;Av.. Otto Niemeyer, 2649, Cavalhada, 91910-200;2649
+2383934;2.669,01;5;R.. Joao da Silva Bueno, 290, Morro Santana, 91260-020;290
+2384680;445,76;9;R.. Lopo Goncalves, 682, Cidade Baixa, 90050-350;682
+2405520;561,33;9;R.. Dr Aurelio py, 42, Medianeira, 90880-050;42
+2405733;693,55;5;R.. Ovidio Chaves, 275, Sta Rosa Lima, 91170-380;275
+2408880;551,04;6;R.. dos Andradas, 1258, Centro Historic, 90020-008;1258
+2426862;1.294,21;3;Av.. Assis Brasil, 1379, Passo da Areia, 91010-005;1379
+2430240;1.804,03;5;Av.. Martim Felix Berta, 440, Rubem Berta, 91250-200;440
+2435314;589,24;15;Estr.. Costa Gama, 2933, Vila Nova, 91787-133;2933
+2442116;290,04;5;Av.. Adelino Ferreira Jardim, 175, Rubem Berta, 91250-310;175
+2442205;2.974,17;5;Av.. Adelino Ferreira Jardim, 295, Rubem Berta, 91250-310;295
+2443228;565,86;5;Av.. Adelino Ferreira Jardim, 150, Rubem Berta, 91250-310;150
+2459205;543,14;16;Av.. Juca Batista, 6017, Chapeu do sol, 91755-851;6017
+2459663;1.326,17;16;Av.. do Lami, 4723, Boa Vista do su, 91782-492;4723
+2461560;147,63;15;R.. Jose Alves de Castro, 485, Vila Nova, 91750-090;485
+2490811;340,96;13;R.. Dr Pereira Neto, 1455, Camaqua, 91920-530;1455
+2503859;148,04;12;R.. Upamaroti, 443, Cristal, 90820-140;443
+2522640;5.259,43;4;Av.. Manoel Elias, 1261, Passo das Pedra, 91240-260;1261
+2545152;3.591,05;5;R.. Alberto Rangel, 528, Rubem Berta, 91180-840;528
+2547848;145,14;6;R.. Voluntarios da Patria, 170, Centro Historic, 90030-000;170
+2548119;1.852,93;5;Av.. Dr Alberto Vianna Rosa, 184, Morro Santana, 91450-210;184
+2564262;718,22;10;Estr.. Joao de Oliveira Remiao, 1296, Lomba Pinheiro, 91550-000;1296
+2582163;192,75;5;R.. Um Vila Valneri Antunes, 329, Mario Quintana, 91270-770;329
+2627701;456,98;1;R.. Augusto Severo, 183, Sao Joao, 90240-480;183
+2627744;464,65;1;Av.. Para, 1217, Sao Geraldo, 90240-592;1217
+2633442;1.072,61;1;R.. Ramiro Barcelos, 445, Floresta, 90035-004;445
+2638282;1.450,23;16;Av.. Principal da Ponta Grossa, 1080, Ponta Grossa, 91780-806;1080
+2641038;3.036,81;5;Av.. Mae Apolinaria Matias Batista, 80, Morro Santana, 91450-510;80
+2654822;474,00;9;Mer.. Mercado do bom fim, 1, Farroupilha, 90040-150;1
+2688743;715,45;11;Av.. Bento Goncalves, 5287, Vila sao Jose, 91540-000;5287
+2745704;3.273,68;15;R.. Germano Bonow Filho, 96, Hipica, 91787-192;96
+2747405;2.470,86;1;R.. Dona Margarida, 1234, Sao Joao, 90240-610;1234
+2751984;809,11;10;Av.. Bento Goncalves, 6106, Partenon, 91540-000;6106
+2752603;925,37;15;Estr.. Gedeon Leite, 1560, Hipica, 91787-770;1560
+2761076;321,02;1;Av.. Ceara, 283, Navegantes, 90240-510;283
+2768658;234,48;15;R.. Dr Antonio Mazzaferro Neto, 682, Hipica, 91787-196;682
+2780550;260,58;15;Av.. Romeu Samarani Ferreira, 800, Vila Nova, 91750-740;800
+2790904;962,21;4;Av.. Martim Felix Berta, 597, Jar Leopoldina, 91250-235;597
+2792176;245,05;10;R.. Dr Salvador Franca, 250, Partenon, 90690-000;250
+2797860;745,37;15;Estr.. Costa Gama, 5998, Restinga, 91788-610;5998
+2798239;558,42;15;R.. Caetano Pedone, 129, Hipica, 91787-195;129
+2805049;1.130,31;2;Av.. Baltazar de Oliveira Garcia, 1500, Sarandi, 91130-000;1500
+2805960;1.273,77;4;Av.. Karl Iwers, 299, Jardim itu, 91220-320;299
+2809290;638,01;7;Av.. Saturnino de Brito, 735, Vila Jardim, 91320-000;735
+2812622;202,31;10;R.. Barao do Amazonas, 1473, Partenon, 90670-005;1473
+2817403;408,10;15;R.. Atilio Supertti, 455, Vila Nova, 91750-200;455
+2820978;261,38;15;R.. Dr Antonio Mazzaferro Neto, 375, Hipica, 91787-196;375
+2828030;744,80;15;R.. Silvestre Sauter, 38, Hipica, 91787-217;38
+2839458;126,38;14;Av.. Eduardo Prado, 1731, Ipanema, 91751-000;1731
+2886243;2.290,03;14;Av.. Juca Batista, 1120, Ipanema, 91770-000;1120
+2887282;186,40;12;R.. Marechal Mesquita, 726, Teresopolis, 91720-160;726
+2891832;209,65;15;Estr.. Joao Antonio Silveira, 1833, Restinga, 91790-229;1833
+2891905;219,75;14;Av.. Juca Batista, 494, Ipanema, 91770-000;494
+2892588;520,01;8;R.. Eudoro Berlink, 955, Mont Serrat, 90450-030;955
+2905957;205,42;9;R.. Tomaz Edison, 253, Santo Antonio, 90640-100;253
+2922703;169,43;13;R.. Santa Flora, 1466, Cavalhada, 90830-410;1466
+2938421;864,72;15;Av.. Juca Batista, 3782, Aberta dos Morr, 91755-000;3782
+2944430;2.628,98;8;Av.. Cristovao Colombo, 2103, Moinhos Vento, 90560-005;2103
+2951789;294,57;6;R.. Felipe Camarao, 334, Bom fim, 90035-140;334
+2956454;2.721,41;6;R.. Quintino Bocaiuva, 834, Moinhos Vento, 90440-050;834
+2957795;375,78;15;R.. Fulvio Bastos, 266, Hipica, 91787-202;266
+2961946;1.047,91;10;R.. Nelson Zang, 285, Partenon, 91530-350;285
+2978075;333,84;9;Av.. Joao Pessoa, 2301, Azenha, 90040-001;2301
+2979420;1.161,36;11;Av.. Cel Aparicio Borges, 1778, Partenon, 90680-570;1778
+3018229;2.113,77;4;Av.. Dez de Maio, 860, Passo das Pedra, 91230-580;860
+3107876;546,61;13;R.. Jacob Edgar Horn, 58, Vila Nova, 91740-323;58
+3144453;471,25;2;R.. Abaete, 867, Sarandi, 91130-490;867
+3165221;885,94;9;Av.. Prof Oscar Pereira, 1313, Medianeira, 90640-070;1313
+3168549;1.877,62;2;R.. Senhor do bom fim, 601, Sarandi, 91140-380;601
+3178188;1.272,23;13;Estr.. Joao Vedana, 919, Cavalhada, 91740-140;919
+3199550;1.610,02;9;Av.. Erico Verissimo, 1500, Azenha, 90160-180;1500
+3202151;2.713,37;4;R.. Ten ary Tarrago, 2560, Jardim itu, 91225-001;2560
+3243761;563,27;14;Estr.. Joao Salomoni, 600, Vila Nova, 91740-830;600
+3253112;276,90;1;R.. Joao Inacio da Silveira i Marinheiros, 943, Arquipelago, 90090-;943
+3267792;440,18;10;R.. Aurelio Porto, 245, Partenon, 90620-090;245
+3276805;436,36;15;R.. Bernardo Tchernin, 4360, Restinga, 91790-180;4360
+3307476;1.105,43;6;Av.. Maua, 1873, Centro Historic, 90030-080;1873
+3320502;3.690,83;4;Av.. Cascais, 111, Passo das Pedra, 91230-210;111
+3327655;7.584,93;13;R.. Santa Flora, 1377, Cavalhada, 90830-410;1377
+3338290;134,63;2;R.. Jackson de Figueiredo, 443, Sarandi, 91120-380;443
+3372227;342,93;1;Av.. Farrapos, 1969, Floresta, 90220-005;1969
+3397521;895,10;14;R.. Henrique Anawate, 610, Guaruja, 91771-000;610
+3407608;847,71;13;Trav.. Fortaleza, 32, Nonoai, 91720-500;32
+3411044;304,67;12;Av.. Cai, 1161, Cristal, 90810-120;1161
+3418634;6.359,76;1;R.. Frederico Mentz, 604, Farrapos, 90240-110;604
+3434176;462,89;8;Av.. Soledade, 498, Petropolis, 90470-340;498
+3438430;352,51;15;Av.. Edgar Pires de Castro, 1355, Hipica, 91787-235;1355
+3440966;3.983,12;5;Av.. Bernardino Silveira de Amorim, 2201, Sta Rosa Lima, 91160-;2201
+3442721;243,72;14;Av.. da Serraria, 1202, Guaruja, 91770-010;1202
+3443574;167,68;5;Av.. Bernardino Silveira de Amorim, 2117, Sta Rosa Lima, 91160-;2117
+3459136;1.057,44;6;R.. Padre Chagas, 293, Moinhos Vento, 90570-080;293
+3478491;722,17;6;R.. Marechal Floriano Peixoto, 32, Centro Historic, 90020-060;32
+3518957;2.861,68;15;Estr.. Joao Antonio Silveira, 2992, Restinga, 91791-550;2992
+3518965;2.140,88;15;Estr.. Joao Antonio Silveira, 2992, Restinga, 91791-550;2992
+3536335;565,72;10;Estr.. das Quirinas, 5820, 91787-730;5820
+3553248;2.563,85;15;Estr.. Barro Vermelho, 799, Restinga, 91790-100;799
+3554872;715,91;16;R.. A lot Jardim Floresta, 16, Extrema, 91040-516;16
+3563030;588,12;15;Estr.. Joao Antonio Silveira, 2990, Restinga, 91791-550;2990
+3570908;34,31;1;Rp.. Seiscentos Trinta Oito lot Oito Piec, 59, Farrapos, 90240-112;59
+3578755;572,32;15;Av.. Juca Batista, 3336, Aberta dos Morr, 91755-000;3336
+3598616;345,11;10;Av.. Bento Goncalves, 7231, Agronomia, 91540-000;7231
+3627616;107,17;9;R.. Jose do Patrocinio, 296, Cidade Baixa, 90050-000;296
+3651320;168,20;9;R.. Dr Malheiros, 235, Santo Antonio, 90640-050;235
+3661474;1.023,58;14;R.. Atilio Supertti, 2195, Vila Nova, 91750-200;2195
+3670805;35,27;9;Av.. Getulio Vargas, 1556, Menino Deus, 90150-004;1556
+3686892;468,79;15;Av.. Edgar Pires de Castro, 2605, Hipica, 91786-299;2605
+3701271;3.972,73;13;R.. Dr Campos Velho, 426, Cristal, 90820-000;426
+3739082;2.187,46;6;Av.. Edvaldo Pereira Paiva, 91, Praia de Belas, 90110-060;91
+3741443;1.165,04;8;R.. Prof Fitzgerald, 166, Petropolis, 90470-160;166
+3765180;478,55;6;R.. dos Andradas, 1153, Centro Historic, 90020-015;1153
+3768864;577,86;5;R.. Irmao Joao Baptista Camilotto, 326, Mario Quintana, 91253-074;326
+3774350;520,80;2;Av.. Eng Francisco Rodolfo Simch, 207, Sarandi, 91130-210;207
+3774864;287,54;16;R.. Tunel Verde, 122, Ponta Grossa, 91780-502;122
+3778568;752,95;9;R.. Decio Martins Costa, 174, Cidade Baixa, 90050-300;174
+3799883;2.811,40;5;R.. Gen Sady Cahen Fischer, 589, Costa e Silva, 91180-580;589
+3806375;756,69;4;Av.. Baltazar de Oliveira Garcia, 3035, Jar Leopoldina, 91150-001;3035
+3808572;2.113,59;5;R.. Fernando Camarano, 525, Rubem Berta, 91250-460;525
+3834239;4.688,89;11;Av.. Outeiro, 155, Partenon, 91510-050;155
+69906;4.167,38;1;R.. do Parque, 95, Floresta, 90230-200;95
+70092;858,22;1;R.. do Parque, 219, Floresta, 90230-200;219
+73610;779,05;1;Av.. Presidente Franklin Roosevelt, 548, Navegantes, 90230-001;548
+77810;1.136,77;1;Av.. Sao Pedro, 611, Sao Geraldo, 90230-120;611
+78891;27.477,42;1;Av.. Farrapos, 2350, Sao Geraldo, 90220-002;2350
+89664;941,36;1;Av.. Sao Pedro, 1000, Sao Geraldo, 90230-123;1000
+90867;659,32;1;Av.. Benjamin Constant, 1253, Sao Geraldo, 90550-004;1253
+92410;2.576,96;1;Av.. Sao Pedro, 1227, Sao Geraldo, 90230-122;1227
+98612;887,83;1;Av.. Benjamin Constant, 1791, Floresta, 90550-005;1791
+102555;454,86;1;R.. Cancio Gomes, 165, Floresta, 90220-060;165
+115681;515,88;1;R.. Garibaldi, 451, Floresta, 90035-050;451
+118052;1.873,17;1;R.. da Conceicao, 352, Floresta, 90030-030;352
+118095;8.363,73;1;Av.. Farrapos, 45, Floresta, 90220-004;45
+122181;711,46;1;R.. Pelotas, 450, Floresta, 90220-110;450
+141020;26.287,06;2;Av.. das Industrias, 990, Anchieta, 90200-290;990
+199370;275,10;2;Av.. dos Gauchos, 1422, Sarandi, 91120-000;1422
+207527;41.626,16;2;Av.. Assis Brasil, 6846, Sarandi, 91140-000;6846
+245828;3.947,92;2;Av.. Assis Brasil, 6195, Sarandi, 91110-001;6195
+257664;377,79;2;R.. Zeferino Dias, 233, Sarandi, 91130-480;233
+261181;4.287,82;2;R.. Dona Alzira, 15, Sarandi, 91110-010;15
+267643;2.731,56;2;R.. Dom Jaime de Barros Camara, 165, Sarandi, 91130-160;165
+270008;1.103,30;3;R.. Costa Rica, 171, Jardim Lindoia, 91050-210;171
+367281;1.647,28;3;Av.. Plinio Brasil Milano, 2278, Passo da Areia, 90520-001;2278
+443190;2.285,54;4;Av.. Alexandre Luiz, 539, Passo das Pedra, 91225-090;539
+456594;2.237,64;4;R.. Itapema, 132, Vila Jardim, 91320-090;132
+536148;538,16;5;R.. Heitor Souto, 214, Sta Rosa Lima, 91160-450;214
+539350;2.267,23;5;R.. Didia Jardim Pinto, 23, Sta Rosa Lima, 91160-330;23
+551007;830,34;5;R.. Santa Rosa de Lima, 384, Rubem Berta, 91170-590;384
+589365;1.159,23;5;Av.. Martim Felix Berta, 540, Rubem Berta, 91250-200;540
+591475;524,72;5;Av.. Martim Felix Berta, 1414, Mario Quintana, 91260-434;1414
+654531;4.314,33;6;Av.. Julio de Castilhos, 121, Centro Historic, 90030-131;121
+673552;454,50;6;R.. dos Andradas, 685, Centro Historic, 90020-003;685
+703214;878,17;6;R.. Dr Vale, 153, Moinhos Vento, 90560-010;153
+706094;373,67;6;R.. Vinte Quatro de Outubro, 684, Moinhos Vento, 90510-000;684
+707112;5.073,55;6;R.. Padre Chagas, 83, Moinhos Vento, 90570-080;83
+726931;1.659,16;6;R.. Vasco da Gama, 514, Rio Branco, 90420-110;514
+741019;895,24;6;R.. Gen Joao Telles, 522, Bom fim, 90035-120;522
+758043;243,01;7;R.. Des Espiridiao l Medeiros, 40, Tres Figueiras, 91330-020;40
+788414;734,00;7;R.. Barao de Bage, 68, Vila Jardim, 91330-570;68
+821390;858,91;7;R.. Santa Izabel, 270, Bom Jesus, 91420-690;270
+897973;9.123,05;8;R.. Tito Livio Zambecari, 805, Mont Serrat, 90450-231;805
+898791;221,70;8;Av.. Cel Lucas de Oliveira, 1190, Bela Vista, 90440-010;1190
+933830;1.000,81;8;R.. Carazinho, 46, Petropolis, 90460-190;46
+936316;953,30;8;R.. Dona Eugenia, 1110, Petropolis, 90630-150;1110
+960527;800,53;8;R.. Felizardo Furtado, 486, Jardim Botanico, 90670-090;486
+960780;1.341,47;8;Trav.. Serafim Terra, 66, Jardim Botanico, 90690-280;66
+968811;682,23;8;R.. Dr Salvador Franca, 1253, Jardim Botanico, 90690-000;1253
+975796;849,15;9;R.. Santana, 495, Santana, 90040-373;495
+976032;390,19;9;R.. Laurindo, 20, Santana, 90040-140;20
+1018485;682,19;9;R.. Luiz Afonso, 565, Cidade Baixa, 90050-310;565
+1027174;4.877,66;9;R.. Olavo Bilac, 251, Azenha, 90040-310;251
+1028472;811,41;9;Av.. Joao Pessoa, 1373, Azenha, 90040-001;1373
+1048074;1.559,39;9;R.. Gen Caldwell, 702, Menino Deus, 90130-050;702
+1100840;838,71;9;R.. Antenor Lemos, 32, Menino Deus, 90850-100;32
+1118269;842,15;9;Av.. Gen Gomes Carneiro, 503, Medianeira, 90870-310;503
+1129996;628,38;10;Av.. Ipiranga, 4949, Partenon, 90610-001;4949
+1133667;806,34;10;R.. Nelson Duarte Brochado, 234, Partenon, 90610-090;234
+1136917;762,72;10;Av.. Ceres, 160, Partenon, 91530-030;160
+1249150;2.534,58;10;Estr.. Joao de Oliveira Remiao, 5739, Lomba Pinheiro, 91560-000;5739
+1370103;620,75;12;Av.. Cel Aparicio Borges, 100, Teresopolis, 90680-570;100
+1375067;85.730,61;12;Av.. Eng Ludolfo Boehl, 388, Teresopolis, 91720-150;388
+1396820;129.237,95;12;R.. Hipolito da Costa, 3, Santa Tereza, 90840-110;3
+1439090;569,18;13;Pca.. Guia Lopes, 87, Teresopolis, 90840-330;87
+1445529;125,98;13;R.. Curupaiti, 925, Cristal, 90820-090;925
+1460838;153,57;13;R.. Octavio de Souza, 1230, Nonoai, 90840-350;1230
+1498665;575,89;13;Av.. Icarai, 1582, Cristal, 90810-000;1582
+1511033;1.285,68;13;R.. Camaqua, 199, Camaqua, 91910-630;199
+1542060;176,37;13;R.. Gen Rondon, 788, Tristeza, 91900-121;788
+1553860;991,11;13;Av.. Otto Niemeyer, 2419, Camaqua, 91910-180;2419
+1626329;640,59;14;R.. Homero Prates, 15, Jardim Isabel, 91760-390;15
+1652494;24.856,57;15;Av.. Belem Velho, 4000, Vila Nova, 91740-810;4000
+1664930;3.067,32;14;Av.. Juca Batista, 220, Ipanema, 91770-000;220
+1665634;2.579,01;14;R.. Aristides Joaquim do Nascimento, 10, Vila Nova, 91750-550;10
+1684973;1.962,56;15;Estr.. das Tres Meninas, 279, Vila Nova, 91787-400;279
+1742108;767,55;15;Estr.. Cristiano Kraemer, 5050, Campo Novo, 91750-060;5050
+1752936;1.031,45;16;Av.. Celestino Bertolucci, 185, Aberta dos Morr, 91755-020;185
+1760866;2.048,66;15;R.. do Schneider, 130, Hipica, 91787-190;130
+1779265;1.201,50;15;R.. Silvio r Sirangelo, 155, Restinga, 91790-030;155
+1779273;352,09;15;R.. Silvio r Sirangelo, 154, Restinga, 91790-030;154
+1793632;24.930,00;15;R.. Clara Nunes, 4589, Restinga, 91790-270;4589
+2073900;423,72;2;R.. Dona Alzira, 309, Sarandi, 91110-010;309
+2100940;538,16;4;Av.. Baltazar de Oliveira Garcia, 3193, Jar Leopoldina, 91150-001;3193
+2124890;1.299,73;15;Estr.. Cristiano Kraemer, 105, Vila Nova, 91750-060;105
+2198096;1.608,62;11;Av.. Bento Goncalves, 3025, Partenon, 90650-003;3025
+2262070;2.041,17;13;R.. Dr Pereira Neto, 2430, Cavalhada, 91920-530;2430
+2452219;445,39;9;R.. da Republica, 50, Cidade Baixa, 90050-320;50
+2517426;522,28;2;Av.. Assis Brasil, 4711, Sarandi, 91110-001;4711
+2523957;3.574,76;15;Ac.. M Condominio Vila Nova, 21, Vila Nova, 91750-731;21
+2534142;2.496,72;4;Av.. Saturnino de Brito, 1594, Vila Jardim, 91320-001;1594
+2551446;2.399,28;6;Av.. Osvaldo Aranha, 1102, Bom fim, 90035-191;1102
+2576325;3.784,32;15;Estr.. Cristiano Kraemer, 1854, Campo Novo, 91750-060;1854
+2601877;402,16;15;Av.. Rodrigues da Fonseca, 1510, Vila Nova, 91740-800;1510
+2612410;356,73;13;R.. Angelo Barboza, 264, Cavalhada, 91740-310;264
+2640120;557,75;14;Av.. Guaiba, 10748, Ipanema, 91760-740;10748
+2750988;2.586,75;16;R.. Tunel Verde, 770, Ponta Grossa, 91780-502;770
+2804336;341,17;2;Av.. Ecoville, 109, Sarandi, 91150-400;109
+2811430;6.023,10;3;Av.. Joao Wallig, 109, Passo da Areia, 91340-000;109
+2896443;4.733,22;13;Av.. Nonoai, 216, Nonoai, 91720-000;216
+2943573;1.953,27;14;Av.. da Serraria, 1329, Guaruja, 91770-010;1329
+2989158;938,13;2;R.. Eng Joao Luderitz, 454, Sarandi, 91130-050;454
+3000028;9.901,55;4;R.. Vereador Terezio Meireles, 15, Jar Leopoldina, 91240-390;15
+3047849;839,91;16;R.. Luiz Vieira Bernardes, 72, Lami, 91787-630;72
+3246043;224,16;6;R.. dos Andradas, 820, Centro Historic, 90020-004;820
+3254577;1.252,98;10;R.. Euclydes da Cunha, 431, Partenon, 90620-220;431
+3309428;8.188,90;16;Bc.. da Vitoria, 82, Boa Vista do su, 91787-220;82
+3315053;1.212,54;4;R.. Ten ary Tarrago, 2065, Passo das Pedra, 91225-001;2065
+3339610;1.395,95;16;Estr.. Otaviano Jose Pinto, 1587, Lami, 91787-660;1587
+3395030;1.777,94;7;Av.. Protasio Alves, 4880, Chacara Pedras, 91310-000;4880
+3410374;1.957,12;15;Estr.. Jorge Pereira Nunes, 1413, Campo Novo, 91787-590;1413
+3431673;1.590,98;13;Av.. da Cavalhada, 1840, Cavalhada, 91740-000;1840
+3441288;1.282,44;15;R.. Dr Antonio Mazzaferro Neto, 7, Hipica, 91787-196;7
+3461149;1.395,04;14;Av.. da Serraria, 1810, Guaruja, 91770-010;1810
+3525139;2.034,18;15;Ac.. A sq Cinco Terceira uv vl n Restinga, 3502, Restinga, 91793-;3502
+3598713;1.301,59;13;R.. Cel Claudino, 366, Cristal, 91910-670;366
+3626792;219,06;8;Av.. Senador Tarso Dutra, 1105, Petropolis, 90690-140;1105
+3694879;431,16;14;R.. Romeu de Vasconcellos Rosa, 61, Cavalhada, 91751-370;61
+3743675;2.183,20;4;R.. Alberto Silva, 209, Cristo Redentor, 91370-000;209
+3745422;2.737,59;15;Av.. Monte Cristo, 431, Vila Nova, 91750-000;431
+3747077;660,23;13;R.. Cel Timoteo, 5, Cavalhada, 91910-680;5
+3781003;422,59;3;R.. Acores, 106, Passo da Areia, 91030-340;106
+3806740;401,23;3;R.. Ouro Preto, 531, Jardim Lindoia, 91040-610;531
+42323;203,91;1;Av.. Pernambuco, 345, Humaita, 90240-003;345
+45160;5.162,71;1;Av.. Farrapos, 4701, Navegantes, 90220-007;4701
+55387;435,59;1;R.. Dr Joao Inacio, 1338, Navegantes, 90230-181;1338
+63320;16.994,98;1;R.. Cairu, 389, Navegantes, 90230-031;389
+80047;1.574,49;1;Av.. Bahia, 361, Navegantes, 90240-550;361
+80780;1.754,41;1;Av.. Brasil, 1244, Navegantes, 90230-060;1244
+89150;2.471,50;1;Av.. Sao Pedro, 744, Sao Geraldo, 90230-123;744
+96210;183,60;1;Av.. Parana, 2335, Sao Geraldo, 90240-602;2335
+116084;48.896,57;1;R.. Voluntarios da Patria, 1041, Floresta, 90230-011;1041
+129100;6.280,08;1;R.. Sao Salvador, 540, Santa m Goretti, 91030-240;540
+129380;631,26;1;Av.. Gen Emilio Lucio Esteves, 542, Santa m Goretti, 91030-290;542
+140619;33.088,44;2;Av.. das Industrias, 575, Anchieta, 90200-290;575
+154091;378.791,49;2;Av.. Sertorio, 4012, Jar sao Pedro, 91040-620;4012
+170364;765,55;2;Av.. Souza Melo, 125, Sarandi, 91120-600;125
+207764;321,29;2;Av.. Assis Brasil, 7459, Sarandi, 91140-001;7459
+284033;1.586,27;3;Av.. Joao de Saldanha, 52, Santa m Goretti, 91030-440;52
+455490;21.264,41;4;Av.. dos Prazeres, 163, Vila Jardim, 91320-150;163
+505927;10.776,00;4;Av.. Baltazar de Oliveira Garcia, 2569, Passo das Pedra, 91150-001;2569
+536547;3.577,47;5;R.. Luiz Mandelli, 374, Sta Rosa Lima, 91160-383;374
+540765;9.250,23;5;Av.. Donario Braga, 584, Sta Rosa Lima, 91160-360;584
+619841;2.440,92;5;Av.. Martim Felix Berta, 2452, Mario Quintana, 91270-650;2452
+630128;7.927,51;5;Av.. Protasio Alves, 7917, Morro Santana, 91310-003;7917
+657409;600,92;6;R.. Senhor dos Passos, 85, Centro Historic, 90020-180;85
+678538;498,02;6;R.. Duque de Caxias, 613, Centro Historic, 90010-282;613
+679305;3.896,05;6;R.. Gen Joao Manoel, 627, Centro Historic, 90010-030;627
+737488;125,51;6;Av.. Osvaldo Aranha, 418, Bom fim, 90035-190;418
+848131;17.033,76;7;R.. Sargento Manoel Arruda, 325, Jardim Carvalho, 91430-220;325
+882348;1.173,57;8;R.. Artur Rocha, 35, Auxiliadora, 90450-171;35
+1028952;464,56;9;R.. Gen Lima e Silva, 1477, Azenha, 90050-103;1477
+1066161;176,02;9;R.. Placido de Castro, 154, Azenha, 90650-070;154
+1095242;2.050,53;10;R.. Barao do Amazonas, 2215, Partenon, 90660-001;2215
+1107909;935,42;9;Av.. Dr Carlos Barbosa, 115, Azenha, 90880-001;115
+1140221;789,14;10;Av.. Ipiranga, 8213, Partenon, 91530-001;8213
+1229087;313,25;10;Av.. Santo Dias da Silva, 561, Lomba Pinheiro, 91550-500;561
+1246704;940,95;10;Estr.. Joao de Oliveira Remiao, 4733, Lomba Pinheiro, 91560-000;4733
+1330144;1.283,78;12;Av.. Prof Oscar Pereira, 3856, Gloria, 91710-000;3856
+1332104;2.327,62;12;R.. Capitao Padilha, 352, Gloria, 91710-100;352
+1353276;286.657,19;12;Av.. Dr Carlos Barbosa, 1525, Medianeira, 90880-001;1525
+1507303;78.062,50;13;R.. Itaipava, 44, Cristal, 91910-730;44
+1509136;9.653,55;13;R.. Dona Zulmira, 265, Cavalhada, 90830-240;265
+1514121;810,30;13;Av.. da Cavalhada, 2427, Cavalhada, 91740-001;2427
+1606603;437,96;14;R.. Bazilio Pellin Filho, 1750, Camaqua, 91920-641;1750
+1654314;9.949,09;15;Av.. Prof Oscar Pereira, 8805, Belem Velho, 91712-320;8805
+1693530;1.963,00;15;R.. Amabile Samarani Ferreira, 18, Campo Novo, 91750-065;18
+1713590;1.715,94;14;Av.. Guaiba, 11918, Ipanema, 91760-740;11918
+1746944;3.606,28;15;R.. Carlos Muttoni, 132, Belem Velho, 91787-240;132
+1748319;338,58;15;Av.. Edgar Pires de Castro, 996, Hipica, 91788-000;996
+1772740;1.626,33;15;R.. Charlie Chaplin, 651, Restinga, 91790-250;651
+1993089;726,68;3;Av.. Benjamin Constant, 736, Sao Joao, 90550-001;736
+2074397;11.152,47;7;Av.. Antonio Carvalho, 2052, Jardim Carvalho, 91430-000;2052
+2094550;10.898,17;4;R.. Joel Tabajara, 53, Costa e Silva, 91150-040;53
+2293110;2.321,80;1;Av.. A j Renner, 1311, Humaita, 90250-000;1311
+2343533;10.767,69;15;Estr.. Barro Vermelho, 325, Restinga, 91790-100;325
+2459396;851,88;15;Ac.. Q sq Tres Segunda uv vl n Restinga, 2008, Restinga, 91792-;2008
+2521970;4.494,93;15;R.. Oscar Antunes de Oliveira, 261, Hipica, 91787-194;261
+2541254;2.142,31;2;Av.. Assis Brasil, 7525, Sarandi, 91140-001;7525
+2583356;422,48;13;Av.. Otto Niemeyer, 2061, Camaqua, 91910-180;2061
+2694409;6.728,33;5;Av.. Adelino Ferreira Jardim, 280, Rubem Berta, 91250-310;280
+2748282;20.509,33;13;R.. Dr Campos Velho, 671, Cristal, 90820-001;671
+2767848;2.185,94;15;R.. Dr Antonio Mazzaferro Neto, 447, Hipica, 91787-196;447
+2808803;1.763,78;5;Av.. Baltazar de Oliveira Garcia, 3608, Parque sta fe, 91180-000;3608
+2822130;1.339,16;7;Av.. Protasio Alves, 7020, Jardim Sabara, 91310-001;7020
+2837153;23.791,68;15;R.. Eugenio Rodrigues, 2250, Restinga, 91790-060;2250
+2864614;10.063,00;5;Av.. Mae Apolinaria Matias Batista, 60, Morro Santana, 91450-510;60
+2919460;431,15;1;Av.. Ceara, 987, Navegantes, 90240-511;987
+2941538;1.253,65;15;Av.. Edgar Pires de Castro, 2163, Hipica, 91787-831;2163
+2955580;948,68;14;R.. Dr Pereira Neto, 792, Tristeza, 91920-530;792
+2957736;460,52;12;Estr.. dos Barcellos, 500, Cascata, 91712-300;500
+2958830;7.141,06;7;R.. Bom Principio, 21, Jardim Carvalho, 91430-040;21
+3056040;9.330,94;15;R.. Ten Arizoly Fagundes, 20, Restinga, 91790-520;20
+3075230;1.104,79;15;R.. Imperador Hiroito, 935, Restinga, 91791-500;935
+3303721;8.695,50;10;Estr.. Joao de Oliveira Remiao, 7067, Lomba Pinheiro, 91560-000;7067
+3393275;1.498,88;13;Av.. Vicente Monteggia, 176, Nonoai, 91740-290;176
+3711595;2.040,67;2;Av.. Eng Frederico Dahne, 485, Sarandi, 91130-040;485
+118435;10.478,98;1;Av.. Alberto Bins, 786, Floresta, 90030-141;786
+121711;1.266,14;1;R.. Pelotas, 349, Floresta, 90220-110;349
+122785;2.149,93;1;R.. Souza Reis, 443, Sao Joao, 90240-650;443
+292605;10.289,92;3;R.. da Graca, 386, Jardim Floresta, 91040-500;386
+409880;4.244,94;4;Pca.. Alfred Sehbe, 135, Vila Ipiranga, 91360-340;135
+699683;12.827,53;8;Av.. Cristovao Colombo, 1441, Moinhos Vento, 90560-004;1441
+733547;174,31;6;Av.. Cel Lucas de Oliveira, 615, Mont Serrat, 90450-045;615
+845205;42.000,01;7;Av.. Protasio Alves, 7005, Jardim Carvalho, 91310-003;7005
+850500;2.571,59;7;R.. Eng Jose Angelo Bettega Cassol, 97, Jardim Carvalho, 91430-;97
+956600;585,35;8;R.. Barao do Amazonas, 178, Petropolis, 90670-000;178
+993751;1.123,23;8;Av.. Ipiranga, 3401, Partenon, 90610-001;3401
+1037471;3.564,00;9;Av.. Bastian, 164, Menino Deus, 90130-020;164
+1038907;1.099,89;9;Av.. Bastian, 457, Menino Deus, 90130-021;457
+1063375;2.980,45;9;Av.. da Azenha, 1307, Azenha, 90160-003;1307
+1240340;476,94;10;Estr.. Joao de Oliveira Remiao, 3060, Lomba Pinheiro, 91550-000;3060
+1255541;813,25;10;R.. Walther Schneider, 152, Pitinga, 91790-402;152
+1365231;861,66;12;R.. Nunes, 301, Teresopolis, 90870-390;301
+1378961;2.626,67;12;R.. Prof Carvalho Freitas, 1369, Teresopolis, 91720-090;1369
+1471538;1.372,18;13;Av.. Nonoai, 713, Nonoai, 91720-000;713
+1586378;268,17;13;Pca.. Comendador Souza Gomes, 247, Tristeza, 91900-190;247
+1600478;5.429,50;14;R.. Victor Silva, 116, Camaqua, 91910-170;116
+1677942;3.646,71;14;R.. Atilio Supertti, 1300, 91750-200;1300
+1743775;1.451,51;15;Av.. Juca Batista, 3660, Aberta dos Morr, 91755-000;3660
+1758560;2.426,43;16;Av.. Juca Batista, 4931, Hipica, 91755-831;4931
+1833936;1.250,66;16;Estr.. da Ponta Grossa, 1340, Belem Novo, 91780-580;1340
+2087944;2.913,16;1;R.. Sao Salvador, 560, Santa m Goretti, 91030-240;560
+2112183;868,28;4;R.. Dona Adda Mascarenhas de Moraes, 1168, Jardim itu, 91220-;1168
+2161478;11.919,97;5;Av.. Martim Felix Berta, 2290, Mario Quintana, 91260-434;2290
+2240289;5.530,42;3;Av.. Dr Nilo Pecanha, 2400, Boa Vista, 91330-001;2400
+2266547;221,49;7;Av.. Protasio Alves, 4768, Chacara Pedras, 91310-000;4768
+2389827;6.552,58;10;R.. Piratininga, 403, Lomba Pinheiro, 91560-520;403
+2646188;420,31;16;R.. Dr Carlos Flores, 290, Belem Novo, 91780-080;290
+2767562;30,02;6;Vdt.. Otavio Rocha, 31, Centro Historic, 90020-030;31
+2916959;1.436,56;14;Av.. Wenceslau Escobar, 3113, Tristeza, 91920-455;3113
+2972689;2.486,08;10;Av.. Bento Goncalves, 9505, Lomba Pinheiro, 91540-000;9505
+2983508;3.256,29;5;R.. Gentil Amancio Clemente, 57, Mario Quintana, 91270-315;57
+3084051;9.228,28;15;Av.. Ignes e Fagundes, 885, Restinga, 91790-010;885
+3262120;573,40;8;Av.. Bento Goncalves, 1010, Partenon, 90650-000;1010
+3473171;679,10;13;Av.. da Cavalhada, 2532, Cavalhada, 91740-000;2532

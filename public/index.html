@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name ="viewport" content="width=800, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content ="ie=edge" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+         integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+         crossorigin=""></script>
+         <script src="https://unpkg.com/esri-leaflet@3.0.7/dist/esri-leaflet.js"
+        integrity="sha512-ciMHuVIB6ijbjTyEdmy1lfLtBwt0tEHZGhKVXDzW7v7hXOe+Fo3UA1zfydjCLZ0/vLacHkwSARXB5DmtNaoL/g=="
+         crossorigin=""></script>
+         <link rel="stylesheet" href="https://unpkg.com/esri-leaflet-geocoder@3.1.2/dist/esri-leaflet-geocoder.css"
+        integrity="sha512-IM3Hs+feyi40yZhDH6kV8vQMg4Fh20s9OzInIIAc4nx7aMYMfo+IenRUekoYsHZqGkREUgx0VvlEsgm7nCDW9g=="
+        crossorigin="">
+        <script src="https://unpkg.com/esri-leaflet-geocoder@3.1.2/dist/esri-leaflet-geocoder.js"
+        integrity="sha512-8bfbGLq2FUlH5HesCEDH9UiuUCnBq0A84yYv+LkUNPk/C2z81PsX2Q/U2Lg6l/QRuKiT3y2De2fy9ZPLqjMVxQ=="
+        crossorigin=""></script>
+         
+         
+
+        <style>
+            #map {
+                height: 700px;
+                width: 100%;
+            }
+
+            .info {
+                padding: 6px 8px;
+                font: 14px/16px Arial, Helvetica, sans-serif;
+                background: white;
+                background: rgba(255,255,255,0.8);
+                box-shadow: 0 0 15px rgba(0,0,0,0.2);
+                border-radius: 5px;
+            }
+            .info h4 {
+                margin: 0 0 5px;
+                color: #777;
+            }
+
+            .legend {
+                line-height: 18px;
+                color: #555;
+            }
+            .legend i {
+                width: 18px;
+                height: 18px;
+                float: left;
+                margin-right: 8px;
+                opacity: 0.7;
+            }
+
+
+            .leaflet-top.leaflet-right .leaflet-control-layers-toggle {
+                background-image: url(workman.png);
+                background-size: 100% auto;
+            }
+
+        </style>
+
+        <title>DMAE Paradas Operacionais</title>
+    </head>
+    <body>
+        <h1>Paradas Operacionais</h1>
+
+        <p>
+        </p>
+
+        <div id ="map">
+
+        </div>
+        
+        <script>
+            const map = L.map('map').setView([-30.0932,-51.1249], 12, );
+            const apikeygis = "AAPK0e05af41d90444068165d222d37aeb9bAwXuX9Ak8mvEOH0EdIorxjQdUY8oOI23RIBZr2e6SD8pOtXjc4_0Y7JOZgPB7toL"
+            /*var basemap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                maxZoom: 18,
+                id: 'mapbox/streets-v11',
+                tileSize: 512,
+                zoomOffset: -1,
+                accessToken: 'pk.eyJ1IjoiamF6b25xIiwiYSI6ImNreGhrN2djbjBiN2cyb3F3aTF1Y2F3Mm8ifQ.XzE5VV_TwAUaz7UIkCL1RQ'
+            }).addTo(map);*/
+            var actualBaseLayer;
+            
+
+            var basemap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            var searchControl = L.esri.Geocoding.geosearch({
+                position: 'topright',
+                placeholder: 'Insira aqui o endereço a ser localizado',
+                useMapBounds: 12,
+                providers: [L.esri.Geocoding.arcgisOnlineProvider({
+                apikey: apikeygis, // replace with your api key - https://developers.arcgis.com
+                nearby: {
+                    lat: -30.0932,
+                    lng: -51.1249
+                }
+                })]
+            }).addTo(map);
+
+            var results = new L.LayerGroup().addTo(map);
+
+            searchControl.on('results', function (data) {
+                results.clearLayers();
+                for (var i = data.results.length - 1; i >= 0; i--) {
+                results.addLayer(L.marker(data.results[i].latlng));
+                //saveData(data.results[i]);
+                var heatpointMark = L.marker(data.results[i].latlng)
+                console.log(actualBaseLayer)
+                actualBaseLayer.addLayer(heatpointMark)
+                console.log(actualBaseLayer)
+                }
+            });
+
+            map.on( 'baselayerchange', function (event) {
+                console.log('Layer name -> ', event);
+                actualBaseLayer = event.name;
+            });
+
+            
+            //TENHO QUE PROCURAR NO BANCO DE DADOS E GERAR O HEATMAP
+            async function getDatabase(data){
+                
+            }
+
+            //TENHO QUE SALVAR NO BANCO DE DADOS QUANDO PROCURAR
+            async function saveData(data) {
+                
+                const options = {
+                    method: 'POST',
+                    headers: {
+                        "Content-Type": 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                };
+                const response = await fetch("/address", options);
+                const json = await response.json();
+            }
+
+            //LEGENDA
+            function getColor(i)
+            {
+                if (i==1)
+                {
+                    return "#800026";
+                }
+            }
+
+            var legend = L.control({position: 'bottomleft'});
+
+            legend.onAdd = function (map) {
+
+                var div = L.DomUtil.create('div', 'info legend'),
+                    grades = ['Execução', 'Normalizando', 'Programada'],
+                    labels = [];
+                   
+                    div.innerHTML +=
+                        '<i style="background:' + '#FF3339' + '"></i> ' +
+                        grades[0]+'<br>' ;
+                        div.innerHTML +=
+                        '<i style="background:' + '#FFFF33' + '"></i> ' +
+                        grades[1]+'<br>' ;
+                        div.innerHTML +=
+                        '<i style="background:' + '#33FF39' + '"></i> ' +
+                        grades[2]+'<br>' ;
+                /*// loop through our density intervals and generate a label with a colored square for each interval
+                for (var i = 0; i < grades.length; i++) {
+                    div.innerHTML +=
+                        '<i style="background:' + getColor(1) + '"></i> ' +
+                        grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+                }*/
+
+                return div;
+            };
+
+            legend.addTo(map);
+
+
+            //const keyapi = ""
+            //const api_url = 'https://api.wheretheiss.at/v1/satellites/25544';
+            const api_url = "https://teledmae.procempa.com.br/nodejs/pos";
+
+            
+
+//            getWorkMan();
+            /*async function getWorkMan(){
+                const response = await fetch(api_url_positionstack )
+                const data = await response.text();
+
+                console.log(data)
+            }*/
+            //getData("NONOAI");
+            getPos();
+
+            var mainControl = L.control.layers(null, null, {position: 'bottomright'}).addTo(map);
+
+            var addtoBairro = L.control.layers(null,null, {position: 'topright'}).addTo(map);
+
+            var radioMaps = {
+
+            };
+
+            var overlayMaps = {
+
+            };
+            
+            async function getPos(){
+                const response = await fetch(api_url)
+                const data = await response.text();
+
+                //console.log(data);
+
+                //var polygonbairro = L.polygon(temporaryCoordParsed).addTo(map);
+                //var polygon = L.polygon([coordsParsed]).addTo(map);
+                const rows = data.split('\n').slice(1);
+                //console.log(rows)
+                rows.forEach(elt => {
+                    const row = elt.split(';');
+                    const bairros = row[0];
+                   // console.log(typeof(row));
+                    //xlabels.push(year);
+                    const endereco = row[1]
+                   // console.log(endereco);
+                    const numero = row[2];
+                   // console.log(numero);
+                    const situacao = row[3];
+                    //console.log(situacao);
+                    //console.log()
+                    if (row[0])
+                    {
+                        //console.log ("Não é null")
+                        getData(row);
+                        //console.log("Manda o bairro "+row )
+                    } else {
+                        //console.log("Ultima linha null")
+                    }
+                    //console.log()
+                   // ytemps.push(parseFloat(temp));
+                   // console.log(year, temp);
+                })
+            }
+
+
+            async function getData(bairrosinfos){
+                const response = await fetch('BairrosFinal.kml')
+                const data = await response.text();
+               // console.log(typeof(bairrosinfos[0]))
+               //console.log(bairrosinfos[0].length)
+                let arrayTemp = [];
+                let bairros = bairrosinfos[0].slice(1, bairrosinfos[0].length-1);
+               // bairros = bairros.replace(")", "");
+                //console.log(bairros);
+                let endereco = bairrosinfos[1];
+                let endereconumero = bairrosinfos[2];
+                let situacao = bairrosinfos[3];
+
+
+                //console.log(bairros[0])
+                //console.log(bairrosinfos);
+                let bairroDividido = bairros.split(', ')
+               //console.log(indexOf(bairroDividido));
+
+                bairroDividido.forEach((elt,index) => {
+                let bairroLocation = data.indexOf(elt);
+
+                console.log(bairroDividido.length)
+                console.log(index)
+                console.log(elt)
+                //console.log(index)
+                //Localiza onde termina as informações de coordenadas
+                //console.log(this.index);
+                let coordinatesFinal = data.indexOf("</coordinates>", bairroLocation);
+                let coordinatesInicio = data.lastIndexOf("<coordinates>", coordinatesFinal)+13;
+                    if (bairroLocation == -1)
+                    {
+                        //console.log("Não desenha");
+                        console.log("O index "+index+" é igual ao length "+bairroDividido.length)
+                        //overlayMaps.endereco = 
+                        //console.log(overlayMaps)
+                        //var templayer = L.layerGroup(arrayTemp).addTo(map);
+                        console.log(templayer)
+
+
+
+                       // mainControl.addOverlay(templayer, endereco)
+                        //Aqui não tem mais coordenadas a achar eu posso salvar tudo?
+                        //console.log(arrayTemp)
+                       // L.control.layers(overlayMaps).addTo(map)
+                        //var newLayer = L.layerGroup(arrayTemp);
+
+
+                    } else {
+                       // console.log(typeof(data));
+                       // console.log(bairroLocation);
+                       // console.log(coordinatesFinal);
+                       // console.log(coordinatesInicio);
+                        //Agora eu tenho que dividir entre coordinates inicio e fim
+                        let dataSliced = data.slice(coordinatesInicio, coordinatesFinal);
+                        dataSliced = dataSliced.replaceAll("\n", "");
+                        dataSliced = dataSliced.replaceAll("\t", "");
+
+                        //console.log(dataSliced);
+
+                        //Agora dividir as coordenadas entre lagitude e longitude para fazer o desenho no mapa
+                        const coordsParsed = dataSliced.split(" ");
+                        /*console.log(coordsParsed);
+                        console.log(typeof(coordsParsed));*/
+                        let color ;
+                        let temporaryCoordParsed = [];
+                        if (bairrosinfos[3] ==1)
+                        {
+                           // console.log ("Sistema em execução")
+                            color = "red"
+                        } else if (bairrosinfos[3] ==2) {
+                           // console.log ("Sistema em normalização")
+                            color = "yellow"
+                        } else if (bairrosinfos[3] ==3) {
+                           // console.log ("Programado para essa semana")
+                            color = "green"
+                        }
+                        coordsParsed.forEach(elt => {
+                        // console.log(elt)
+                            var templtlng = [];
+                            let latLon = elt.split(",");
+                            //console.log(typeof(latLon[0]));
+                            if (latLon[0] != ""){
+                                templtlng.push(parseFloat(latLon[1]), parseFloat(latLon[0]));  
+                                temporaryCoordParsed.push(templtlng);
+                            }
+                    
+                      
+                         })
+                        if (elt != "ARQUIPELAGO")
+                        {
+                          var polygonbairro = L.polygon([temporaryCoordParsed], {color: color, dashArray: '1'})
+                          polygonbairro.bindPopup("Endereço do conserto: "+ endereco+", "+endereconumero+"<br>"+"Bairro atingido: "+elt);
+
+                          //L.control.layers(overlayMaps).addTo(map);
+                          arrayTemp.push(polygonbairro);
+                          console.log("Bairro é "+ elt+" Estou no endereço: "+endereco+" e o length é "+bairroDividido.length+" e o index é "+index)
+                          if (bairroDividido.length-1 == index)
+                          {
+                            var templayer = L.layerGroup(arrayTemp).addTo(map);
+                            mainControl.addOverlay(templayer, endereco)
+                            addtoBairro.addBaseLayer(templayer, endereco)
+                          }
+                          //L.control.layers(baseMaps, overlayMaps).addTo(map);
+                          console.log(arrayTemp)
+                        } else {
+                            while (elt == "ARQUIPELAGO" && data.indexOf("AUXILIADORA", coordinatesFinal)>=1){
+                            
+                            dataSliced = data.slice(coordinatesInicio, coordinatesFinal);
+                            dataSliced = dataSliced.replaceAll("\n", "");
+                            dataSliced = dataSliced.replaceAll("\t", "");
+                            let coordsParsed = dataSliced.split(" ");
+                            temporaryCoordParsed = [];
+
+                            coordsParsed.forEach(elt => {
+                        // console.log(elt)
+                                var templtlng = [];
+                                let latLon = elt.split(",");
+                                //console.log(typeof(latLon[0]));
+                                if (latLon[0] != ""){
+                                    templtlng.push(parseFloat(latLon[1]), parseFloat(latLon[0]));  
+                                    temporaryCoordParsed.push(templtlng);
+                                }                      
+                            })
+                            var polygonbairro = L.polygon([temporaryCoordParsed], {color: color, dashArray: '1'})
+                            polygonbairro.bindPopup("Endereço do conserto: "+ endereco+", "+endereconumero+"<br>"+"Bairro atingido: "+elt);
+
+                           // polygonbairro.addTo(cities);
+
+                           var templayer = L.layerGroup(arrayTemp).addTo(map);
+
+                            arrayTemp.push(templayer);
+
+                            //L.control.layers()
+                           // console.log(po)
+
+                            
+
+
+
+                            coordinatesFinal = data.indexOf("</coordinates>", coordinatesFinal+1);
+                            coordinatesInicio = data.lastIndexOf("<coordinates>", coordinatesFinal)+13;
+                        }
+                        }
+                        
+
+                        /*coordinatesFinal = data.indexOf("</coordinates>", coordinatesFinal+1);
+                        coordinatesInicio = data.lastIndexOf("<coordinates>", coordinatesFinal)+13;*/
+
+                        
+
+                        //console.log(temporaryCoordParsed);
+                        }
+                
+
+                     })
+                // console.log(data)
+                //Localiza onde está a localização da id do bairro
+               /* let bairroLocation = data.indexOf(bairros);
+                //Localiza onde termina as informações de coordenadas
+                let coordinatesFinal = data.indexOf("</coordinates>", bairroLocation);
+                let coordinatesInicio = data.lastIndexOf("<coordinates>", coordinatesFinal)+13;
+                console.log(typeof(data));
+                console.log(bairroLocation);
+                console.log(coordinatesFinal);
+                console.log(coordinatesInicio);
+               //Agora eu tenho que dividir entre coordinates inicio e fim
+               let dataSliced = data.slice(coordinatesInicio, coordinatesFinal);
+               dataSliced = dataSliced.replaceAll("\n", "");
+               dataSliced = dataSliced.replaceAll("\t", "");
+
+               //console.log(dataSliced);
+
+               //Agora dividir as coordenadas entre lagitude e longitude para fazer o desenho no mapa
+               const coordsParsed = dataSliced.split(" ");
+                /*console.log(coordsParsed);
+                console.log(typeof(coordsParsed));
+                let temporaryCoordParsed = [];
+
+                coordsParsed.forEach(elt => {
+                   // console.log(elt)
+                    var templtlng = [];
+                    let latLon = elt.split(",");
+                    //console.log(typeof(latLon[0]));
+                    if (latLon[0] != ""){
+                        templtlng.push(parseFloat(latLon[1]), parseFloat(latLon[0]));  
+                     temporaryCoordParsed.push(templtlng);
+                    }
+                    
+                      
+                })
+
+                var polygonbairro = L.polygon([temporaryCoordParsed]).addTo(map);*/
+
+                //console.log(temporaryCoordParsed);
+
+                
+                
+            }
+
+            
+            
+            /*async function getISS(){
+                const response = await fetch(api_url);
+                const data = await response.json();
+                console.log(data)
+
+                document.getElementById("lat").textContent = data.latitude;
+                document.getElementById("lon").textContent = data.longitude;
+
+                console.log(data.latitude);
+                console.log(data.longitude);
+            }*/
+            //console.log(data);
+        </script>
+    </body>
+</html>

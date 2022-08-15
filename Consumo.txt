@@ -1,0 +1,62 @@
+
+Ramal:541826;Arrecadado: 1.420,68;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1287, Sta Rosa Lima, 91170-200;Numero: 1287
+Ramal:541850;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1311, Sta Rosa Lima, 91170-200;Numero: 1311
+Ramal:541885;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1335, Sta Rosa Lima, 91170-200;Numero: 1335
+Ramal:541923;Arrecadado: 154.086,16;Grupo: 5;SituaçãoAtivo;Endereço: R.. da Infancia, 1361, Sta Rosa Lima, 91170-715;Numero: 1361
+Ramal:541931;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1357, Sta Rosa Lima, 91170-200;Numero: 1357
+Ramal:544612;Arrecadado: 1.420,68;Grupo: 5;SituaçãoAtivo;Endereço: R.. da Infancia, 1387, Sta Rosa Lima, 91170-715;Numero: 1387
+Ramal:544639;Arrecadado: 7.873,34;Grupo: 5;SituaçãoAtivo;Endereço: R.. da Infancia, 1381, Sta Rosa Lima, 91170-715;Numero: 1381
+Ramal:544647;Arrecadado: 1.420,68;Grupo: 5;SituaçãoAtivo;Endereço: R.. da Infancia, 1401, Sta Rosa Lima, 91170-715;Numero: 1401
+Ramal:544663;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1413, Sta Rosa Lima, 91170-200;Numero: 1413
+Ramal:544671;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1417, Sta Rosa Lima, 91170-200;Numero: 1417
+Ramal:544701;Arrecadado: 1.420,68;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1425, Sta Rosa Lima, 91170-200;Numero: 1425
+Ramal:544728;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1445, Sta Rosa Lima, 91170-200;Numero: 1445
+Ramal:544752;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1453, Sta Rosa Lima, 91170-200;Numero: 1453
+Ramal:544760;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1433, Sta Rosa Lima, 91170-200;Numero: 1433
+Ramal:544779;Arrecadado: 1.040,59;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1437, Sta Rosa Lima, 91170-200;Numero: 1437
+Ramal:544825;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: R.. dos Maias, 1461, Sta Rosa Lima, 91170-200;Numero: 1461
+Ramal:974323;Arrecadado: 0,00;Grupo: 9;SituaçãoAtivo;Endereço: Av.. Joao Pessoa, 1308, Santana, 90040-001;Numero: 1308
+Ramal:1786504;Arrecadado: 1.261,79;Grupo: 15;SituaçãoAtivo;Endereço: R.. Rubem Pereira Torelly, 85, Restinga, 91790-480;Numero: 85
+Ramal:1786555;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Rubem Pereira Torelly, 255, Restinga, 91790-480;Numero: 255
+Ramal:1786598;Arrecadado: 143.844,03;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Oscar de Oliveira Ramos, 1255, Restinga, 91790-050;Numero: 1255
+Ramal:1786601;Arrecadado: 706,00;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Oscar de Oliveira Ramos, 1265, Restinga, 91790-050;Numero: 1265
+Ramal:1786636;Arrecadado: 80.644,62;Grupo: 15;SituaçãoAtivo;Endereço: Av.. Econ Nilo Wulff, 910, Restinga, 91790-000;Numero: 910
+Ramal:1786652;Arrecadado: 645,92;Grupo: 15;SituaçãoAtivo;Endereço: Av.. Econ Nilo Wulff, 870, Restinga, 91790-000;Numero: 870
+Ramal:1786660;Arrecadado: 186.158,38;Grupo: 15;SituaçãoAtivo;Endereço: Av.. Econ Nilo Wulff, 860, Restinga, 91790-000;Numero: 860
+Ramal:1797891;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 834, Restinga, 91790-330;Numero: 834
+Ramal:1797905;Arrecadado: 1.006,43;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 832, Restinga, 91790-330;Numero: 832
+Ramal:1797913;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 830, Restinga, 91790-330;Numero: 830
+Ramal:1797921;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 110, Restinga, 91790-300;Numero: 110
+Ramal:1797930;Arrecadado: 5.485,89;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 90, Restinga, 91790-300;Numero: 90
+Ramal:1797956;Arrecadado: 61.122,24;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 50, Restinga, 91790-300;Numero: 50
+Ramal:1797964;Arrecadado: 126.166,30;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 30, Restinga, 91790-300;Numero: 30
+Ramal:1797972;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eugenio Rodrigues, 90, Restinga, 91790-060;Numero: 90
+Ramal:1797999;Arrecadado: 2.012,86;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eugenio Rodrigues, 94, Restinga, 91790-060;Numero: 94
+Ramal:1798014;Arrecadado: 3.800,61;Grupo: 15;SituaçãoAtivo;Endereço: Estr.. Joao Antonio Silveira, 1552, Restinga, 91790-512;Numero: 1552
+Ramal:1798022;Arrecadado: 1.487,11;Grupo: 15;SituaçãoAtivo;Endereço: Estr.. Joao Antonio Silveira, 1554, Restinga, 91790-512;Numero: 1554
+Ramal:1798677;Arrecadado: 3.167,94;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 290, Restinga, 91790-300;Numero: 290
+Ramal:1798685;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 270, Restinga, 91790-300;Numero: 270
+Ramal:1798693;Arrecadado: 2.955,75;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 250, Restinga, 91790-300;Numero: 250
+Ramal:1798707;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 220, Restinga, 91790-300;Numero: 220
+Ramal:1798715;Arrecadado: 991,40;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 200, Restinga, 91790-300;Numero: 200
+Ramal:1798723;Arrecadado: 555,78;Grupo: 15;SituaçãoAtivo;Endereço: R.. David Cherman, 180, Restinga, 91790-300;Numero: 180
+Ramal:1798731;Arrecadado: 3.886,22;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 835, Restinga, 91790-330;Numero: 835
+Ramal:1798740;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 841, Restinga, 91790-330;Numero: 841
+Ramal:1798758;Arrecadado: 615,87;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 837, Restinga, 91790-330;Numero: 837
+Ramal:1798766;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Eng Homero Carlos Simon, 839, Restinga, 91790-330;Numero: 839
+Ramal:1798804;Arrecadado: 593,34;Grupo: 15;SituaçãoAtivo;Endereço: R.. Clara Nunes, 744, Restinga, 91790-270;Numero: 744
+Ramal:1798812;Arrecadado: 1.438,06;Grupo: 15;SituaçãoAtivo;Endereço: R.. Clara Nunes, 746, Restinga, 91790-270;Numero: 746
+Ramal:1801392;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Antonio Onofre da Silveira, 20, Restinga, 91790-510;Numero: 20
+Ramal:1801406;Arrecadado: 766,08;Grupo: 15;SituaçãoAtivo;Endereço: R.. Antonio Onofre da Silveira, 10, Restinga, 91790-510;Numero: 10
+Ramal:1801430;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Malvinas, 65, Restinga, 91790-410;Numero: 65
+Ramal:1801481;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: Av.. Dr Joao Dentice, 25, Restinga, 91790-090;Numero: 25
+Ramal:1801511;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: R.. Carolina, 25, Restinga, 91790-220;Numero: 25
+Ramal:1801520;Arrecadado: 3.012,52;Grupo: 15;SituaçãoAtivo;Endereço: R.. Carolina, 45, Restinga, 91790-220;Numero: 45
+Ramal:1801562;Arrecadado: 781,10;Grupo: 15;SituaçãoAtivo;Endereço: R.. Mississipi, 60, Restinga, 91790-430;Numero: 60
+Ramal:1808630;Arrecadado: 2.837,19;Grupo: 15;SituaçãoAtivo;Endereço: Estr.. Joao Antonio Silveira, 1595, Restinga, 91790-229;Numero: 1595
+Ramal:1808656;Arrecadado: 480,67;Grupo: 15;SituaçãoAtivo;Endereço: Estr.. Joao Antonio Silveira, 1711, Restinga, 91790-229;Numero: 1711
+Ramal:1808702;Arrecadado: 1.028,96;Grupo: 15;SituaçãoAtivo;Endereço: R.. Carolina, 170, Restinga, 91790-220;Numero: 170
+Ramal:1808710;Arrecadado: 623,38;Grupo: 15;SituaçãoAtivo;Endereço: R.. Carolina, 140, Restinga, 91790-220;Numero: 140
+Ramal:2398737;Arrecadado: 940,10;Grupo: 5;SituaçãoAtivo;Endereço: Av.. Bernardino Silveira de Amorim, 2150, Sta Rosa Lima, 91160-;Numero: 2150
+Ramal:2682869;Arrecadado: 526,99;Grupo: 15;SituaçãoAtivo;Endereço: Estr.. Joao Antonio Silveira, 885, Restinga, 91790-329;Numero: 885
+Ramal:2878410;Arrecadado: 2.323,29;Grupo: 9;SituaçãoAtivo;Endereço: R.. Dr Malheiros, 10, Santo Antonio, 90640-050;Numero: 10

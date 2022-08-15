@@ -1,0 +1,29 @@
+Modificações dia 08/03/2021
+
+Corrigido usuarios que digitavam o ramal com pontos não conseguiam acessar a segunda via da conta.
+
+Corrigido usuarios que digitavam o ramal com pontos não entravam nas estatisticas de falta de agua.
+
+Especificações das Classes
+
+testbairro.js = Reconhecer bairro cadastrado do usuario antes, de atualização em conta do bairro, Utilizando coordenadas do geodmae
+
+Faltabairros.js = Faz a leitura do siges e mantem em memória bairros que estão apresentando falta de agua no momento, atualização de tempo é feito pelo trigger da call
+
+horario.js = retorna horario atual para identificar tipo de saudação na saudação inicial
+
+dividalancamentos.js' = Identifica lançamento por lançamento valores em aberto, ficou defasado pela desativação de opção detalhada, podendo ser retomada quando for feita atualização no banco de dados sql
+
+
+parsingJson.js = Funciona como um trigger das atualizações do banco de dados fazendo a integração do webserver com a função de banco de dados
+
+segundaVia.js = Baixa a segunda via mais atual no site do dmae conforme o ramal informado
+
+phrases.js = Returna frases conforme opções selecionadas pelo usuario ( principalmente menus)
+
+cdlfinder.js = Utiliza o cdl para identificar endereços e bairros;
+
+
+db_connection.js = Conexão de retorno do banco de dados, utilizando quando não necessario o trigger do banco de dados, (Principalmente informações baixadas do banco e nao registro de novas informações
+
+triggermail.js = Trigger para o servidor gerar e-mail interno.

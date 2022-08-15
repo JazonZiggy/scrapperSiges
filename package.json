@@ -1,0 +1,36 @@
+{
+  "name": "nodewebhook",
+  "version": "1.0.0",
+  "description": "Criacao de webhook para atendimento via bot watsDMAE",
+  "main": "WebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeison Molina",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.9.0",
+    "canvas": "^2.6.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cookie-parser": "^1.4.6",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "images": "^3.0.2",
+    "merge-images": "https://github.com/mkhizeryounas/merge-images/tarball/master",
+    "merge-images-v2": "^2.0.1",
+    "mysql": "^2.17.1",
+    "nodaemon": "0.0.5",
+    "nodemailer": "^6.3.0",
+    "numeral": "^2.0.6",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "0.0.7",
+    "pdf2json": "^1.2.0",
+    "pdfjs-dist": "^2.5.207",
+    "read-excel-file": "^4.0.2",
+    "replaceall": "^0.1.6",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "typescript": "^4.7.4"
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "phrases": [
+        {
+            "id": 1,
+            "function": "Informa Falta de agua",
+            "script": true,
+            "texts": {
+                "textMenu": "Falta de água",
+                "answer1": "script",
+                "answer2": "Caso o seu bairro não esteja entre os citados acima, digite 'Outro'",
+                "answer3": "Para retornar ao menu inicial basta informar o número do Ramal"
+            }
+        },
+        {
+            "id": 2,
+            "function": "Informações sobre a Conta",
+            "script": true,
+            "texts": {
+                "textMenu": "Informações sobre a Conta",
+                "answer1": "script",
+                "answer2": "",
+                "answer3": ""
+            }
+        },
+        {
+            "id": 3,
+            "function": "Informações sobre como solicitar conserto de fuga de água ou esgoto",
+            "script": false,
+            "texts": {
+                "textMenu": "Fuga de água ou Extravasamento de Esgoto",
+                "answer1":"Para informar vazamento de água ou esgoto acesse app 156+POA",
+                "answer2": "http://onelink.to/umh3gf",
+                "answer3": ""
+            }
+        },
+        {
+            "id": 4,
+            "function": "Informações sobre como agendar atendimento Presencial",
+            "script": false,
+            "texts": {
+                "textMenu": "Agendamento para Atendimento Presencial",
+                "answer1":"Para parcelamento acesse o link http://bit.ly/dmaeparcelamento",
+                "answer2": "Em outros casos somente pelo atendimento virtual no link http://bit.ly/dmaevirtual",
+                "answer3": "Ou no atendimento presencial"
+            }
+        },
+        {
+            "id": 6,
+            "function": "Site do DMAE",
+            "script": false,
+            "texts": {
+                "textMenu": "Site DMAE",
+                "answer1":"https://prefeitura.poa.br/dmae",
+                "answer2": "",
+                "answer3": ""
+            }
+        },
+        {
+            "id": 7,
+            "function": "Sobre o DMAE",
+            "script": false,
+            "texts": {
+                "textMenu": "Sobre o DMAE",
+                "answer1":"O Departamento Municipal de Água e Esgotos(DMAE) é o orgão responsável pela captação, tratamento e distribuição de água, bem como pela coleta e tratamento do esgoto sanitário (cloacal) em Porto Alegre",
+                "answer2": "",
+                "answer3": ""
+            }
+        }
+    ]
+}

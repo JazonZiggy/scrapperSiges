@@ -194,7 +194,7 @@ module.exports.message = function (session: any, messageId: string, menuId =null
 	 
 	return new Promise((resolve, reject) =>{
 		console.log("Primeiro Passo, checar o query do Database");
-		con.query(sql, function (err: any, result: unknown) {
+		con.query(sql, function (err: any, result: any) {
 	    if (err) 
 	    {
 	    	console.log("Ramal não encontrado");
@@ -223,7 +223,7 @@ function includeTrack(id: string, titulo: any){
 		    	console.log(err);
 		    } else 
 		    {
-				lastsession = result[result.length-1]
+				let lastsession = result[result.length-1]
 				console.log(lastsession)
 				var idRef
 				if (lastsession){
@@ -231,7 +231,7 @@ function includeTrack(id: string, titulo: any){
 				} else {
 					idRef = null;
 				}
-		    	console.log("Number of records inserted: " + result.affectedRows);
+		    	//console.log("Number of records inserted: " + result.affectedRows);
 				var sql2 = "INSERT INTO trackoptions (idSession, titulo) VALUES ?"
 				var values = [
 					[idRef, titulo ] 
@@ -334,7 +334,12 @@ module.exports.estatistica = function(anoI: string, mesI: string, diaI: string, 
 }
 
 
-module.exports.updateFalta = function(resultref: { bairro: any; }[], bairroListRef: any, lengthRef: any, enderecoRef: any, numeroRef: any )
+module.exports.updateFalta = function(resultref: {
+	ramal: any;
+	logradouro: any;
+	numero: any;
+	session: any; bairro: any; 
+}[], bairroListRef: any, lengthRef: any, enderecoRef: any, numeroRef: any )
 {
 	var datapo = new Date();
 	var bairroList = bairroListRef;

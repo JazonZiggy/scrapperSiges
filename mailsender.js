@@ -6,7 +6,7 @@ var tganexo = require('./triggeranexo.js');
 //var test = "COUNT(id)"
 function sendmail (mail, data, subject)
 {
-  exec("echo '"+data+"' | mail -a From:whatsdmae@dmae.procempa.com.br -s '"+subject+"' "+mail, (error, stdout, stderr) => {
+  exec("echo '"+data+"' | mail -a From:E-mail Origem -s '"+subject+"' "+mail, (error, stdout, stderr) => {
   if (error){
     console.log("errou");
     return;
@@ -21,7 +21,7 @@ function sendmail (mail, data, subject)
 
 function sendmailcancel (mail, fone)
 {
-  exec("echo '"+fone+"' | mail -a From:whatsdmae@dmae.procempa.com.br -s 'Cancelamento de horario no Agendamento' "+mail, (error, stdout, stderr) => {
+  exec("echo '"+fone+"' | mail -a From:E-mail Origem -s 'Cancelamento de horario no Agendamento' "+mail, (error, stdout, stderr) => {
   if (error){
     console.log("errou");
     return;
@@ -36,7 +36,7 @@ function sendmailcancel (mail, fone)
 
 function sendmailanexo (mail)
 {
-  exec("echo 'Em anexo dados solicitados' | mail -a From:whatsdmae@dmae.procempa.com.br -s 'CSV' -A /var/www/html/NodeWebHook/stats/dados.csv "+mail, (error, stdout, stderr) => {
+  exec("echo 'Em anexo dados solicitados' | mail -a From:E-mail Origem -s 'CSV' -A /var/www/html/NodeWebHook/stats/dados.csv "+mail, (error, stdout, stderr) => {
   if (error){
     console.log("errou");
     return;
@@ -51,7 +51,7 @@ function sendmailanexo (mail)
 
 function sendmailplanilha (mail)
 {
-  exec("echo 'Em anexo planilha com valor arrecadado' | mail -a From:whatsdmae@dmae.procempa.com.br -s 'txt' -A /var/www/html/NodeWebHook/Academias0819.txt "+mail, (error, stdout, stderr) => {
+  exec("echo 'Em anexo planilha com valor arrecadado' | mail -a From:E-mail Origem -s 'txt' -A /var/www/html/NodeWebHook/Academias0819.txt "+mail, (error, stdout, stderr) => {
   if (error){
     console.log("errou");
     return;
@@ -93,7 +93,7 @@ module.exports.talksegundavia = function (ramal)
 {
   var text = "Encaminhar segunda via do valor total do ramal "+ramal
   //sendmail("jeison.molina@dmae.prefpoa.com.br", text, "Segunda via");
-  sendmail("zapdmae@dmae.prefpoa.com.br", text, "Segunda via");
+  sendmail("E-mail Destino", text, "Segunda via");
        
 }
 

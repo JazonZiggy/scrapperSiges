@@ -245,7 +245,7 @@ function finderede2(x, y, passby)
 				//console.log(length);
 				//console.log(body);
 				//console.log(typeof body);
-
+				//
 				//console.log(body.results[0].layerName);
 				//console.log(body.results[0].geometry.paths)
 				//console.log(body.results[0].value)

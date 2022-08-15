@@ -19,7 +19,7 @@ module.exports.getMes = function (){
 	var mesatual = data.getUTCMonth()+1;
 	if (mesatual == 13){
 		
-		return 01;
+		return 0o1;
 	}
 	//console.log("O Mes atual é"+mesatual)
 	return mesatual;
@@ -29,7 +29,7 @@ module.exports.getMes = function (){
 ////
 //Retorna a competência Do mês passado em relação ao mes atual
 ////
-module.exports.getComp = function (dif){
+module.exports.getComp = function (dif:number){
 	var data = new Date();
 	//console.log(data)
 	//Recebe o mes de 0 a 11 e não como o esperado de 1 a 12

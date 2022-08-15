@@ -3,7 +3,7 @@ const request = require('request');
 //const app = express();
 const rp = require('request-promise');
 const cheerio = require('cheerio');
-const fs = require('fs');
+//const fs = require('fs');
 const replaceAll = require('replaceall');
 const correctSiges = require('./sigesFinProblems');
 
@@ -47,7 +47,7 @@ setInterval(function () {
 
 	rp(options)
 		.then(($: { text: () => any; }) => {
-			sigesFin = correctSiges.passtheTxt($.text());
+			let sigesFin = correctSiges.passtheTxt($.text());
 			
 
 			//console.log(sigesFin);
@@ -55,22 +55,11 @@ setInterval(function () {
 			var sit1 = "EXECUÇAO";
 			var sit2 = "PENDENTE";
 			var sit3 = "AUTORIZADA";
+			var dmaeString = " DMAE ";
 
-
-			//var words = textclean.split("");
-			//var newwords = words.toString().split("\n");
-			//var newwords2 = newwords.toString().split("\t");
-			//var newwords3 = newwords2.toString().replace("" , "T");
-			//console.log(newwords3);
-			//console.log(sigesFin)
-			//	console.log(typeof newwords);
-			//console.log(typeof newwords2);
-
-			//words = textclean.split("\t");
-			//console.log(newwords2);
 			jsonBairros.forEach(function (word: any) {
 				var startcountdown = 0;
-				//console.log(sigesFin)
+
 				while (sigesFin.indexOf(word, startcountdown) >= 0) {
 					var wordLocation = sigesFin.indexOf(word, startcountdown);
 					startcountdown = wordLocation + 1;

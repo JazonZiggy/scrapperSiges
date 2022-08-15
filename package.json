@@ -25,12 +25,15 @@
     "numeral": "^2.0.6",
     "pdf-parse": "^1.1.1",
     "pdf-to-text": "0.0.7",
-    "pdf2json": "^1.2.0",
+    "pdf2json": "^2.0.1",
     "pdfjs-dist": "^2.5.207",
-    "read-excel-file": "^4.0.2",
+    "read-excel-file": "^5.4.5",
     "replaceall": "^0.1.6",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.4"
   }
 }
